@@ -40,7 +40,7 @@ http://www.lizhinas.top:1009/rtp/239.252.220.237:5140
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227577/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="央视频道",CCTV-4K
-
+http://175.22.226.131:888/hls/19/index.m3u8
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://live.fanmingming.cn/tv/老故事.png" group-title="央视频道",老故事
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227979/index.m3u8
 #EXTINF:-1 tvg-name="中学生" tvg-logo="https://live.fanmingming.cn/tv/中学生.png" group-title="央视频道",中学生
