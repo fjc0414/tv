@@ -603,7 +603,7 @@ https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/7345
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 #EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://live.fanmingming.cn/tv/半岛新闻.png" group-title="海外频道",半岛新闻
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-name="NBC News Now" tvg-logo="https://live.fanmingming.cn/tv/半岛新闻.png" group-title="海外频道",NBC News Now
+#EXTINF:-1 tvg-name="NBC News Now" tvg-logo="https://live.fanmingming.cn/tv/CNBC.png" group-title="海外频道",NBC News Now
 https://jmp2.uk/sam-GBBB1500004LG.m3u8
 #EXTINF:-1 tvg-name="Arirang" tvg-logo="https://live.fanmingming.cn/tv/ArirangTV.png" group-title="海外频道",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
