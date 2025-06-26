@@ -404,7 +404,8 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv074
 #EXTINF:-1 tvg-name="中视菁采" tvg-logo="https://live.fanmingming.cn/tv/中视菁采.png" group-title="台湾频道",中视菁采
 http://litv.zapi.us.kg/?id=4gtv-4gtv064
 #EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.cn/tv/民视.png" group-title="台湾频道",民视
-rtmp://f13h.mine.nu/sat/tv051
+#rtmp://f13h.mine.nu/sat/tv051
+https://s1.m16tv.cfd/taiwan/CH-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.cn/tv/民视新闻台.png" group-title="台湾频道",民视新闻
 http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 #EXTINF:-1 tvg-name="民视第一台" tvg-logo="https://live.fanmingming.cn/tv/民视第一台.png" group-title="台湾频道",民视第一台
@@ -447,8 +448,10 @@ http://live4play.uk/livehttpplay?channel_id=20078
 http://222.128.55.152:9080/live/hy.m3u8
 #EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Unique1.png" group-title="台湾频道",非凡新闻
 rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.cn/tv/TVBS.png.png" group-title="台湾频道",TVBS
+https://s1.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.cn/tv/TVBS新闻.png" group-title="台湾频道",TVBS新闻
-@http://61.221.215.25:8800/hls/9/index.m3u8
+#http://61.221.215.25:8800/hls/9/index.m3u8
 https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://live.fanmingming.cn/tv/TVBS欢乐.png" group-title="台湾频道",TVBS欢乐
 http://litv.zapi.us.kg/?id=4gtv-4gtv068
@@ -461,7 +464,8 @@ http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 #EXTINF:-1 tvg-name="龙华偶像台" tvg-logo="https://live.fanmingming.cn/tv/龙华偶像.png" group-title="台湾频道",龙华偶像台
 https://cdn8.163189.xyz/live/lhox/stream.m3u8
 #EXTINF:-1 tvg-name="龙华日韩台" tvg-logo="https://live.fanmingming.cn/tv/龙华日韩.png" group-title="台湾频道",龙华日韩台
-https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+#https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+https://s1.m16tv.cfd/taiwan/CH-5/AKTV.m3u8
 #EXTINF:-1 tvg-name="龙华电影台" tvg-logo="https://live.fanmingming.cn/tv/龙华电影.png" group-title="台湾频道",龙华电影台
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1 tvg-name="龙华经典台" tvg-logo="https://live.fanmingming.cn/tv/龙华经典.png" group-title="台湾频道",龙华经典台
@@ -495,6 +499,10 @@ https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 rtmp://f13h.mine.nu/sat/tv761
 #EXTINF:-1 tvg-name="Taiwan Plus" tvg-logo="https://live.fanmingming.cn/tv/TaiwanPlus.png" group-title="台湾频道",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 tvg-name="好莱坞电影台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hollywood.png" group-title="台湾频道",好莱坞电影台
+https://s1.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
+#EXTINF:-1 tvg-name=影迷数位纪实台" tvg-logo="https://live.fanmingming.cn/tv/影迷纪实.png" group-title="台湾频道",影迷数位纪实台
+https://s1.m16tv.cfd/taiwan/CH-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://live.fanmingming.cn/tv/星空卫视.png" group-title="香港频道",星空卫视
 http://192.168.3.1:8686/rtp/239.93.14.10:2193.m3u8
 #EXTINF:-1 tvg-name="channelv" tvg-logo="https://live.fanmingming.cn/tv/channelv.png" group-title="香港频道",channelv
@@ -510,7 +518,8 @@ http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 #http://php.jdshipin.com/TVOD/iptv.php?id=j1
 https://s1.m16tv.cfd/aktv/CH-17/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.cn/tv/TVB星河.png" group-title="香港频道",TVB星河
-http://php.jdshipin.com:8880/smt.php?id=Xinhe
+#http://php.jdshipin.com:8880/smt.php?id=Xinhe
+https://s1.m16tv.cfd/taiwan2/tvb/AKTV.m3u8
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.cn/tv/明珠台.png" group-title="香港频道",明珠台
 #http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 https://s1.m16tv.cfd/aktv/CH-2/AKTV.m3u8
@@ -558,7 +567,8 @@ https://s1.m16tv.cfd/aktv2/viutv/AKTV.m3u8
 #EXTINF:-1 tvg-name="viutv6" tvg-logo="https://live.fanmingming.cn/tv/viutv6.png" group-title="香港频道",viutv6
 http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 #EXTINF:-1 tvg-name="天映频道" tvg-logo="" group-title="香港频道",天映频道
-http://php.jdshipin.com:8880/smt.php?id=Celestial
+#http://php.jdshipin.com:8880/smt.php?id=Celestial
+https://s1.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="" group-title="香港频道",天映经典
 http://php.jdshipin.com:8880/smt.php?id=Celestial2
 #EXTINF:-1 tvg-name="面包台" tvg-logo="" group-title="香港频道",面包台
@@ -606,7 +616,8 @@ http://php.jdshipin.com:8880/smt.php?id=Quanjia
 #EXTINF:-1 tvg-name="Astro欢喜台" tvg-logo="" group-title="海外频道",Astro欢喜台
 http://php.jdshipin.com:8880/smt.php?id=Huahee
 #EXTINF:-1 tvg-name="八度空间" tvg-logo="" group-title="海外频道",八度空间
-https://cdn6.163189.xyz/live/8tv/stream.m3u8
+#https://cdn6.163189.xyz/live/8tv/stream.m3u8
+https://s1.m16tv.cfd/astro/8tv/AKTV.m3u8
 #EXTINF:-1 tvg-name="VOA美国之音" tvg-logo="https://live.fanmingming.cn/tv/VOA美国之音.png" group-title="海外频道",VOA美国之音
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BBC1.png" group-title="海外频道",BBC World News
@@ -683,7 +694,8 @@ https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
 #https://smart.pendy.dpdns.org/Smart.php?id=TVN
 https://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Animax.png" group-title="海外频道",Animax
-https://live.tvfix.org/live/animax/index.m3u8
+#https://live.tvfix.org/live/animax/index.m3u8
+https://s1.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
 #EXTINF:-1 tvg-name="ROCK Action" tvg-logo="" group-title="海外频道",ROCK Action
 #https://smart.pendy.dpdns.org/Smart.php?id=Rockaction
 https://s1.m16tv.cfd/aktv/rockaction/AKTV.m3u8
@@ -693,3 +705,5 @@ https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
 https://s1.m16tv.cfd/aktv3/kpop/AKTV.m3u8
 #EXTINF:-1 tvg-name="朝鲜恩情台" tvg-logo="" group-title="海外频道",朝鲜恩情台
 https://s1.m16tv.cfd/aktv3/CH-0/AKTV.m3u8
+#EXTINF:-1 tvg-name="My Cinema Europe" tvg-logo="https://live.fanmingming.cn/tv/MyCinemaEurope.png" group-title="海外频道",My Cinema Europe
+https://s1.m16tv.cfd/taiwan/CH-3/AKTV.m3u8
