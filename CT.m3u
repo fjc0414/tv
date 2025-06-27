@@ -8,9 +8,9 @@ http://192.168.3.1:8686/rtp/239.93.14.109:5140.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
 http://192.168.3.1:8686/rtp/239.93.15.105:5140.m3u8
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4欧洲.png" group-title="央视频道",CCTV4 欧洲
-http://150.138.78.253:10050/migu/608807419?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
+http://192.168.3.254:35455/mgtv/608807419.m3u8
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4美洲.png" group-title="央视频道",CCTV4 美洲
-http://150.138.78.253:10050/migu/608807416?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
+http://192.168.3.254:35455/mgtv/608807416.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://192.168.3.1:8686/rtp/239.93.50.37:5140.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
@@ -41,12 +41,14 @@ http://192.168.3.1:8686/rtp/239.93.50.54:5140.m3u8
 http://192.168.3.1:8686/rtp/239.93.14.92:5140.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="央视频道",CCTV-4K
 http://192.168.3.1:8686/rtp/239.93.50.42:5140.m3u8
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.cn/tv/CCTV8K.png" group-title="央视频道",CCTV-8K
+http://192.168.3.254:35455/nptv/cctv8k.m3u8
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://live.fanmingming.cn/tv/老故事.png" group-title="央视频道",老故事
-http://150.138.78.253:10050/migu/884121956?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
+http://192.168.3.254:35455/mgtv/884121956.m3u8
 #EXTINF:-1 tvg-name="中学生" tvg-logo="https://live.fanmingming.cn/tv/中学生.png" group-title="央视频道",中学生
-http://150.138.78.253:10050/migu/708869532?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
+http://192.168.3.254:35455/mgtv/708869532.m3u8
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://live.fanmingming.cn/tv/发现之旅.png" group-title="央视频道",发现之旅
-http://150.138.78.253:10050/migu/624878970?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
+http://192.168.3.254:35455/mgtv/624878970.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN
 http://192.168.3.1:8686/rtp/239.93.14.104:5140.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
@@ -165,7 +167,8 @@ http://192.168.3.1:8686/rtp/239.93.50.43:5140.m3u8
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="卫视频道",延边卫视
 http://192.168.3.1:8686/rtp/239.93.14.249:5140.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
-http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv
+#http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv
+http://192.168.3.254:35455/mgtv/608917627.m3u8
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://live.fanmingming.cn/tv/安多卫视.png" group-title="卫视频道",安多卫视
 http://192.168.3.1:8686/rtp/239.93.14.234:5140.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
@@ -179,7 +182,8 @@ http://192.168.3.1:8686/rtp/239.93.14.100:5140.m3u8
 #EXTINF:-1 tvg-name="西部电影" tvg-logo="https://live.fanmingming.cn/tv/陕西西部电影.png" group-title="卫视频道",西部电影
 http://112.46.105.20:8009/hls/62/index.m3u8
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.cn/tv/海峡卫视.png" group-title="卫视频道",海峡卫视
-http://php.jdshipin.com/TVOD/iptv.php?id=hxws
+#http://php.jdshipin.com/TVOD/iptv.php?id=hxws
+http://192.168.3.254:35455/mgtv/849119120.m3u8
 #EXTINF:-1 tvg-name="乐山新闻综合" tvg-logo="" group-title="地方频道",乐山新闻综合
 http://192.168.3.1:8686/rtp/239.93.50.99:5140.m3u8
 #EXTINF:-1 tvg-name="乐山文旅生活" tvg-logo="" group-title="地方频道",乐山文旅生活
@@ -197,11 +201,14 @@ http://www.lizhinas.top:1009/rtp/239.252.219.96:5140
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://live.fanmingming.cn/tv/风云音乐.png" group-title="央视频道",风云音乐
 http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.fanmingming.cn/tv/风云剧场.png" group-title="央视频道",风云剧场
-http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
+#http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
+http://192.168.3.254:35455/nptv/fyjc.m3u8
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.fanmingming.cn/tv/第一剧场.png" group-title="央视频道",第一剧场
-http://www.lizhinas.top:1009/rtp/239.252.219.86:5140
+#http://www.lizhinas.top:1009/rtp/239.252.219.86:5140
+http://192.168.3.254:35455/nptv/dyjc.m3u8
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="央视频道",怀旧剧场
-http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
+#http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
+http://192.168.3.254:35455/nptv/hjjc.m3u8
 #EXTINF:-1 tvg-name="文化精品" tvg-logo="https://live.fanmingming.cn/tv/文化精品.png" group-title="央视频道",文化精品
 http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.fanmingming.cn/tv/女性时尚.png" group-title="央视频道",女性时尚
