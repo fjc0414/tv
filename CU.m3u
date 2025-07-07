@@ -341,7 +341,7 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227963/index.m3u8
 http://175.22.226.131:888/hls/115/index.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="休闲竞技",五星体育
 
-#EXTINF:-1 tvg-name="书画" tvg-logo="https://live.fanmingming.cn/tv/书画.png" group-title="休闲竞技",书画
+#EXTINF:-1 tvg-name="书画频道" tvg-logo="https://live.fanmingming.cn/tv/书画.png" group-title="休闲竞技",书画频道
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227982/index.m3u8
 #EXTINF:-1 tvg-name="汽摩" tvg-logo="https://live.fanmingming.cn/tv/重庆汽摩.png" group-title="休闲竞技",汽摩
 http://175.22.226.131:888/hls/92/index.m3u8
@@ -378,6 +378,7 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce49274
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="" group-title="导视",精彩影视
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227980/index.m3u8
 #EXTINF:-1 tvg-name="精彩导视" tvg-logo="" group-title="导视",精彩导视
+
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.cn/tv/法治天地.png" group-title="法治频道",法治天地
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227976/index.m3u8
 #EXTINF:-1 tvg-name="中国交通" tvg-logo="https://live.fanmingming.cn/tv/中国交通.png" group-title="交通频道",中国交通
