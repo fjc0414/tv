@@ -289,7 +289,7 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228100/index.m3u8
 #EXTINF:-1 tvg-name="甘孜综合" tvg-logo="" group-title="地方频道",甘孜综合
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227966/index.m3u8
 #EXTINF:-1 tvg-name="甘孜综合" tvg-logo="" group-title="地方频道",甘孜综合
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227549/index.m3u8
+#http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227549/index.m3u8
 #EXTINF:-1 tvg-name="阿坝新闻综合" tvg-logo="" group-title="地方频道",阿坝新闻综合
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227561/index.m3u8
 #EXTINF:-1 tvg-name="阿坝藏语频道" tvg-logo="" group-title="地方频道",阿坝藏语频道
