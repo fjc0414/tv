@@ -390,6 +390,8 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227976/index.m3u8
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227499/index.m3u8
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://live.fanmingming.cn/tv/中国天气.png" group-title="天气频道",中国天气
 http://111.22.153.159:35455/itv/5000000005000031974.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="家政频道" tvg-logo="" group-title="家政频道",家政频道
+
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://live.fanmingming.cn/tv/星空卫视.png" group-title="香港频道",星空卫视
 http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 #EXTINF:-1 tvg-name="channelv" tvg-logo="https://live.fanmingming.cn/tv/channelv.png" group-title="香港频道",channelv
