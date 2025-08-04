@@ -165,7 +165,7 @@ http://192.168.3.1:8686/rtp/239.93.14.82:5140.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
 http://192.168.3.1:8686/rtp/239.94.0.97:5140.m3u8
 #EXTINF:-1 tvg-name="西藏藏语卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏藏语卫视.png" group-title="卫视频道",西藏藏语卫视
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227129/index.m3u8
+http://php.jdshipin.com/xztv.php?id=zy
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
 http://192.168.3.1:8686/rtp/239.93.50.43:5140.m3u8
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="卫视频道",延边卫视
