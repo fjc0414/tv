@@ -8,9 +8,11 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227435/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227373/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4欧洲.png" group-title="央视频道",CCTV4 欧洲
-http://fn.tmde.top:35455/mgtv/608807419.m3u8
+#http://fn.tmde.top:35455/mgtv/608807419.m3u8
+https://mursor.ottiptv.cc/migu/608807419.m3u8?migutoken=17e23df1a1e63601dbf5b11af393cef727c2c7774931b8a583d2154a597b73405dab8059c5a0f7d362a1c9ae6cc70e40ff7315ff4119b2fa0c8a2365b97836b0c4fbd6e2fc722bcf334e0fa899
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4美洲.png" group-title="央视频道",CCTV4 美洲
-http://fn.tmde.top:35455/mgtv/608807416.m3u8
+#http://fn.tmde.top:35455/mgtv/608807416.m3u8
+https://mursor.ottiptv.cc/migu/608807416.m3u8?migutoken=c1eb9c760bc0bdca8fe691f0c516f21717debc9cd1df29812860fa0c81b031101aa6ccd58d4b51100629f5f298fbd1dc39bb8b3c647de61eff5e6dbd2447c31bd83af45beea02dade2bcfa4e62
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227491/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
@@ -48,7 +50,7 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227979/index.m3u8
 #EXTINF:-1 tvg-name="中学生" tvg-logo="https://live.fanmingming.cn/tv/中学生.png" group-title="央视频道",中学生
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227978/index.m3u8
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://live.fanmingming.cn/tv/发现之旅.png" group-title="央视频道",发现之旅
-
+https://mursor.ottiptv.cc/migu/624878970.m3u8?migutoken=0f2a6786f55aa888e4a509ca0e09a0d9e45681035de7129f3f989fc620cb59ffa55ce143b6e4c24957610f5edefd23fdd56493913b8988088e2f42b04688e033d166360619625a24d0ee4431f1
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228075/index.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
@@ -345,7 +347,7 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227963/index.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.cn/tv/游戏风云.png" group-title="休闲竞技",游戏风云
 http://111.22.153.159:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="休闲竞技",五星体育
-
+https://gdcucc.v1.mk/gdcucc/wxty.m3u8
 #EXTINF:-1 tvg-name="书画频道" tvg-logo="https://live.fanmingming.cn/tv/书画.png" group-title="休闲竞技",书画频道
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227982/index.m3u8
 #EXTINF:-1 tvg-name="汽摩" tvg-logo="https://live.fanmingming.cn/tv/重庆汽摩.png" group-title="休闲竞技",汽摩
