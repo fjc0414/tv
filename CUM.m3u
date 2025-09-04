@@ -42,7 +42,8 @@ http://www.lizhinas.top:1009/rtp/239.252.220.237:5140
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://192.168.3.1:8687/rtp/239.0.0.152:5140.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="央视频道",CCTV-4K
-http://192.168.3.1:8687/rtp/239.0.0.184:5140.m3u8
+#http://192.168.3.1:8687/rtp/239.0.0.184:5140.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.178:5140.m3u8
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.cn/tv/CCTV8K.png" group-title="央视频道",CCTV-8K
 http://fn.tmde.top:35455/nptv/cctv8k.m3u8
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://live.fanmingming.cn/tv/老故事.png" group-title="央视频道",老故事
@@ -127,7 +128,8 @@ http://192.168.3.1:8687/rtp/239.0.0.182:5140.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://192.168.3.1:8687/rtp/239.0.0.61:5140.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="卫视频道",海南卫视
-http://192.168.3.1:8687/rtp/239.0.0.100:5140.m3u8
+#http://192.168.3.1:8687/rtp/239.0.0.100:5140.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.253:5140.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://192.168.3.1:8687/rtp/239.0.0.71:5140.m3u8
 #EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视4K
@@ -151,7 +153,8 @@ http://192.168.3.1:8687/rtp/239.0.0.79:5140.m3u8
 #EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古蒙语卫视.png" group-title="卫视频道",内蒙古蒙语卫视
 https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-http://192.168.3.1:8687/rtp/239.0.0.110:5140.m3u8
+#http://192.168.3.1:8687/rtp/239.0.0.110:5140.m3u8
+#http://192.168.3.1:8687/rtp/239.0.0.35:5140.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
 http://192.168.3.1:8687/rtp/239.0.0.53:5140.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
@@ -237,7 +240,7 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228096/index.m3u8
 #EXTINF:-1 tvg-name="泸州新闻综合" tvg-logo="" group-title="地方频道",泸州新闻综合
 http://192.168.3.1:8687/rtp/239.0.0.125:5140
 #EXTINF:-1 tvg-name="泸州科教生活" tvg-logo="" group-title="地方频道",泸州科教生活
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228092/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.86:5140
 #EXTINF:-1 tvg-name="眉山综合" tvg-logo="" group-title="地方频道",眉山综合
 http://192.168.3.1:8687/rtp/239.0.0.130:5140
 #EXTINF:-1 tvg-name="眉山文旅乡村" tvg-logo="" group-title="地方频道",眉山文旅乡村
@@ -245,7 +248,7 @@ http://192.168.3.1:8687/rtp/239.0.0.87:5140
 #EXTINF:-1 tvg-name="广安新闻综合" tvg-logo="" group-title="地方频道",广安新闻综合
 http://192.168.3.1:8687/rtp/239.0.0.132:5140
 #EXTINF:-1 tvg-name="广安文旅乡村" tvg-logo="" group-title="地方频道",广安文旅乡村
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228090/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.83:5140
 #EXTINF:-1 tvg-name="德阳新闻综合" tvg-logo="" group-title="地方频道",德阳新闻综合
 http://192.168.3.1:8687/rtp/239.0.0.82:5140
 #EXTINF:-1 tvg-name="德阳文旅科教" tvg-logo="" group-title="地方频道",德阳文旅科教
@@ -253,7 +256,7 @@ http://192.168.3.1:8687/rtp/239.0.0.138:5140
 #EXTINF:-1 tvg-name="巴中综合" tvg-logo="" group-title="地方频道",巴中综合
 http://192.168.3.1:8687/rtp/239.0.0.139:5140
 #EXTINF:-1 tvg-name="巴中文旅生活" tvg-logo="" group-title="地方频道",巴中文旅生活
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228088/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.80:5140
 #EXTINF:-1 tvg-name="南充综合" tvg-logo="" group-title="地方频道",南充综合
 http://192.168.3.1:8687/rtp/239.0.0.176:5140
 #EXTINF:-1 tvg-name="南充科教生活" tvg-logo="" group-title="地方频道",南充科教生活
@@ -277,7 +280,7 @@ http://192.168.3.1:8687/rtp/239.0.0.88:5140
 #EXTINF:-1 tvg-name="广元综合" tvg-logo="" group-title="地方频道",广元综合
 http://192.168.3.1:8687/rtp/239.0.0.126:5140
 #EXTINF:-1 tvg-name="广元文化生活" tvg-logo="" group-title="地方频道",广元文化生活
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228081/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.84:5140
 #EXTINF:-1 tvg-name="雅安新闻综合" tvg-logo="" group-title="地方频道",雅安新闻综合
 http://192.168.3.1:8687/rtp/239.0.0.140:5140
 #EXTINF:-1 tvg-name="雅安文化生活" tvg-logo="" group-title="地方频道",雅安文化生活
@@ -340,8 +343,6 @@ http://192.168.3.1:8687/rtp/239.0.0.37:5140.m3u8
 http://wouu.net:9977/udp/239.93.42.55:5140
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://live.fanmingming.cn/tv/四海钓鱼.png" group-title="休闲竞技",四海钓鱼
 http://120.76.248.139/live/bfgd/4200000229.m3u8
-#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.cn/tv/魅力足球.png" group-title="休闲竞技",魅力足球
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227963/index.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.cn/tv/游戏风云.png" group-title="休闲竞技",游戏风云
 http://111.22.153.159:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="休闲竞技",五星体育
@@ -350,12 +351,8 @@ https://gdcucc.v1.mk/gdcucc/wxty.m3u8
 http://192.168.3.1:8687/rtp/239.0.0.31:5140.m3u8
 #EXTINF:-1 tvg-name="汽摩" tvg-logo="https://live.fanmingming.cn/tv/重庆汽摩.png" group-title="休闲竞技",汽摩
 http://175.22.226.131:888/hls/92/index.m3u8
-#EXTINF:-1 tvg-name="麻辣体育" tvg-logo="" group-title="休闲竞技",麻辣体育
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227811/index.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.cn/tv/东方财经.png" group-title="财经频道",东方财经
 http://111.22.153.159:35455/itv/5000000007000010003.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://live.fanmingming.cn/tv/家庭理财.png" group-title="财经频道",家庭理财
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227969/index.m3u8
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://live.fanmingming.cn/tv/财富天下.png" group-title="财经频道",财富天下
 http://192.168.3.1:8687/rtp/239.0.0.34:5140.m3u8
 #EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://live.fanmingming.cn/tv/河南梨园.png" group-title="戏曲频道",梨园频道
