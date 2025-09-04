@@ -288,8 +288,6 @@ https://play.yunxya.com/channellive/xinwen.m3u8
 
 #EXTINF:-1 tvg-name="甘孜综合" tvg-logo="" group-title="地方频道",甘孜综合
 http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
-#EXTINF:-1 tvg-name="甘孜综合" tvg-logo="" group-title="地方频道",甘孜综合
-
 #EXTINF:-1 tvg-name="阿坝新闻综合" tvg-logo="" group-title="地方频道",阿坝新闻综合
 
 #EXTINF:-1 tvg-name="阿坝藏语频道" tvg-logo="" group-title="地方频道",阿坝藏语频道
@@ -350,8 +348,6 @@ https://gdcucc.v1.mk/gdcucc/wxty.m3u8
 http://192.168.3.1:8686/rtp/239.93.50.67:5140.m3u8
 #EXTINF:-1 tvg-name="汽摩" tvg-logo="https://live.fanmingming.cn/tv/重庆汽摩.png" group-title="休闲竞技",汽摩
 http://175.22.226.131:888/hls/92/index.m3u8
-#EXTINF:-1 tvg-name="麻辣体育" tvg-logo="" group-title="休闲竞技",麻辣体育
-
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.cn/tv/东方财经.png" group-title="财经频道",东方财经
 http://192.168.3.1:8686/rtp/239.94.1.59:5140.m3u8
 #EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://live.fanmingming.cn/tv/家庭理财.png" group-title="财经频道",家庭理财
