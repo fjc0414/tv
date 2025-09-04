@@ -340,6 +340,8 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227967/index.m3u8
 http://wouu.net:9977/udp/239.93.42.55:5140
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://live.fanmingming.cn/tv/四海钓鱼.png" group-title="休闲竞技",四海钓鱼
 http://120.76.248.139/live/bfgd/4200000229.m3u8
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.cn/tv/魅力足球.png" group-title="休闲竞技",魅力足球
+
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.cn/tv/游戏风云.png" group-title="休闲竞技",游戏风云
 http://111.22.153.159:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="休闲竞技",五星体育
@@ -350,6 +352,8 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227982/index.m3u8
 http://175.22.226.131:888/hls/92/index.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.cn/tv/东方财经.png" group-title="财经频道",东方财经
 http://111.22.153.159:35455/itv/5000000007000010003.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://live.fanmingming.cn/tv/家庭理财.png" group-title="财经频道",家庭理财
+
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://live.fanmingming.cn/tv/财富天下.png" group-title="财经频道",财富天下
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227971/index.m3u8
 #EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://live.fanmingming.cn/tv/河南梨园.png" group-title="戏曲频道",梨园频道
