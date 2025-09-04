@@ -213,91 +213,91 @@ http://192.168.3.1:8687/rtp/239.0.0.85:5140.m3u8
 #EXTINF:-1 tvg-name="井研综合" tvg-logo="" group-title="地方频道",井研综合
 http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
 #EXTINF:-1 tvg-name="成都新闻综合" tvg-logo="https://live.fanmingming.cn/tv/成都新闻综合.png" group-title="地方频道",成都新闻综合
-http://sc.rrs.169ol.com:80//PLTV/88888888/224/3221227495/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.144:5140
 #EXTINF:-1 tvg-name="成都经济资讯" tvg-logo="https://live.fanmingming.cn/tv/成都经济资讯.png" group-title="地方频道",成都经济资讯
-http://sc.rrs.169ol.com:80//PLTV/88888888/224/3221227949/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.162:5140
 #EXTINF:-1 tvg-name="成都都市生活" tvg-logo="https://live.fanmingming.cn/tv/成都都市生活.png" group-title="地方频道",成都都市生活
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227950/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.163:5140
 #EXTINF:-1 tvg-name="成都影视文艺" tvg-logo="https://live.fanmingming.cn/tv/成都影视文艺.png" group-title="地方频道",成都影视文艺
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227951/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.164:5140
 #EXTINF:-1 tvg-name="成都公共" tvg-logo="https://live.fanmingming.cn/tv/成都公共.png" group-title="地方频道",成都公共
-http://sc.rrs.169ol.com:80//PLTV/88888888/224/3221227587/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.161:5140
 #EXTINF:-1 tvg-name="成都少儿" tvg-logo="https://live.fanmingming.cn/tv/成都少儿.png" group-title="地方频道",成都少儿
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227953/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.165:5140
 #EXTINF:-1 tvg-name="成都每日购物" tvg-logo="" group-title="地方频道",成都每日购物
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227920/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.160:5140
 #EXTINF:-1 tvg-name="宜宾新闻综合" tvg-logo="" group-title="地方频道",宜宾新闻综合
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227541/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.131:5140
 #EXTINF:-1 tvg-name="宜宾公共频道" tvg-logo="" group-title="地方频道",宜宾公共频道
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228093/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.94:5140
 #EXTINF:-1 tvg-name="攀枝花新闻综合" tvg-logo="" group-title="地方频道",攀枝花新闻综合
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228084/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.124:5140
 #EXTINF:-1 tvg-name="攀枝花文旅生活" tvg-logo="" group-title="地方频道",攀枝花文旅生活
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228096/index.m3u8
 #EXTINF:-1 tvg-name="泸州新闻综合" tvg-logo="" group-title="地方频道",泸州新闻综合
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227529/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.125:5140
 #EXTINF:-1 tvg-name="泸州科教生活" tvg-logo="" group-title="地方频道",泸州科教生活
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228092/index.m3u8
 #EXTINF:-1 tvg-name="眉山综合" tvg-logo="" group-title="地方频道",眉山综合
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227539/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.130:5140
 #EXTINF:-1 tvg-name="眉山文旅乡村" tvg-logo="" group-title="地方频道",眉山文旅乡村
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228085/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.87:5140
 #EXTINF:-1 tvg-name="广安新闻综合" tvg-logo="" group-title="地方频道",广安新闻综合
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227543/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.132:5140
 #EXTINF:-1 tvg-name="广安文旅乡村" tvg-logo="" group-title="地方频道",广安文旅乡村
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228090/index.m3u8
 #EXTINF:-1 tvg-name="德阳新闻综合" tvg-logo="" group-title="地方频道",德阳新闻综合
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228079/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.82:5140
 #EXTINF:-1 tvg-name="德阳文旅科教" tvg-logo="" group-title="地方频道",德阳文旅科教
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227555/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.138:5140
 #EXTINF:-1 tvg-name="巴中综合" tvg-logo="" group-title="地方频道",巴中综合
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227557/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.139:5140
 #EXTINF:-1 tvg-name="巴中文旅生活" tvg-logo="" group-title="地方频道",巴中文旅生活
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228088/index.m3u8
 #EXTINF:-1 tvg-name="南充综合" tvg-logo="" group-title="地方频道",南充综合
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227805/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.176:5140
 #EXTINF:-1 tvg-name="南充科教生活" tvg-logo="" group-title="地方频道",南充科教生活
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228094/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.89:5140
 #EXTINF:-1 tvg-name="内江综合" tvg-logo="" group-title="地方频道",内江综合
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227932/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.128:5140
 #EXTINF:-1 tvg-name="内江科教生活" tvg-logo="" group-title="地方频道",内江科教生活
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228089/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.90:5140
 #EXTINF:-1 tvg-name="遂宁综合" tvg-logo="" group-title="地方频道",遂宁综合
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227533/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.127:5140
 #EXTINF:-1 tvg-name="遂宁文化生活" tvg-logo="" group-title="地方频道",遂宁文化生活
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228091/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.92:5140
 #EXTINF:-1 tvg-name="达州新闻综合" tvg-logo="" group-title="地方频道",达州新闻综合
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227581/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.133:5140
 #EXTINF:-1 tvg-name="达州文化生活" tvg-logo="" group-title="地方频道",达州文化生活
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228077/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.81:5140
 #EXTINF:-1 tvg-name="绵阳新闻综合" tvg-logo="" group-title="地方频道",绵阳新闻综合
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227521/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.121:5140
 #EXTINF:-1 tvg-name="绵阳科教生活" tvg-logo="" group-title="地方频道",绵阳科教生活
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228087/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.88:5140
 #EXTINF:-1 tvg-name="广元综合" tvg-logo="" group-title="地方频道",广元综合
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227531/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.126:5140
 #EXTINF:-1 tvg-name="广元文化生活" tvg-logo="" group-title="地方频道",广元文化生活
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228081/index.m3u8
 #EXTINF:-1 tvg-name="雅安新闻综合" tvg-logo="" group-title="地方频道",雅安新闻综合
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228086/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.140:5140
 #EXTINF:-1 tvg-name="雅安文化生活" tvg-logo="" group-title="地方频道",雅安文化生活
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228098/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.93:5140
 #EXTINF:-1 tvg-name="资阳新闻综合" tvg-logo="" group-title="地方频道",资阳新闻综合
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227547/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.134:5140
 #EXTINF:-1 tvg-name="自贡综合" tvg-logo="" group-title="地方频道",自贡综合
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227930/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.123:5140
 #EXTINF:-1 tvg-name="自贡文化生活" tvg-logo="" group-title="地方频道",自贡文化生活
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228100/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.97:5140
 #EXTINF:-1 tvg-name="甘孜综合" tvg-logo="" group-title="地方频道",甘孜综合
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227966/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.135:5140
 #EXTINF:-1 tvg-name="阿坝新闻综合" tvg-logo="" group-title="地方频道",阿坝新闻综合
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227561/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.141:5140
 #EXTINF:-1 tvg-name="阿坝藏语频道" tvg-logo="" group-title="地方频道",阿坝藏语频道
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227563/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.142:5140
 #EXTINF:-1 tvg-name="凉山新闻综合" tvg-logo="" group-title="地方频道",凉山新闻综合
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227551/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.136:5140
 #EXTINF:-1 tvg-name="凉山彝语综合" tvg-logo="" group-title="地方频道",凉山彝语综合
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227553/index.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.137:5140
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="教育频道",CETV-1
 http://192.168.3.1:8687/rtp/239.0.0.51:5140.m3u8
 #EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.cn/tv/CETV2.png" group-title="教育频道",CETV-2
