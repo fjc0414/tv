@@ -8,9 +8,9 @@ http://192.168.3.1:8686/rtp/239.93.14.11:5140.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
 http://192.168.3.1:8686/rtp/239.94.0.4:5140.m3u8
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4欧洲.png" group-title="央视频道",CCTV4 欧洲
-https://mursor.ottiptv.cc/migu/608807419.m3u8?migutoken=17e23df1a1e63601dbf5b11af393cef727c2c7774931b8a583d2154a597b73405dab8059c5a0f7d362a1c9ae6cc70e40ff7315ff4119b2fa0c8a2365b97836b0c4fbd6e2fc722bcf334e0fa899
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4m
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4美洲.png" group-title="央视频道",CCTV4 美洲
-https://mursor.ottiptv.cc/migu/608807416.m3u8?migutoken=c1eb9c760bc0bdca8fe691f0c516f21717debc9cd1df29812860fa0c81b031101aa6ccd58d4b51100629f5f298fbd1dc39bb8b3c647de61eff5e6dbd2447c31bd83af45beea02dade2bcfa4e62
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4o
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://192.168.3.1:8686/rtp/239.93.14.12:5140.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
@@ -44,11 +44,11 @@ http://192.168.3.1:8686/rtp/239.93.50.42:5140.m3u8
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.cn/tv/CCTV8K.png" group-title="央视频道",CCTV-8K
 http://192.168.3.254:35455/nptv/cctv8k.m3u8
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://live.fanmingming.cn/tv/老故事.png" group-title="央视频道",老故事
-https://mursor.ottiptv.cc/migu/884121956.m3u8?migutoken=25f9d8633b5c4e9cae438376338d3a0707beb695b869055ed5c80400387388284f5eb16047b383ee4cd8eee7f9ff221c0861db187353025b6324bf69a281e07636c045965eaf2e66d01ada0d4c
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=lgs
 #EXTINF:-1 tvg-name="中学生" tvg-logo="https://live.fanmingming.cn/tv/中学生.png" group-title="央视频道",中学生
-https://mursor.ottiptv.cc/migu/708869532.m3u8?migutoken=e97a37739d3c5a43bfb4c34a35bbfff0e8f160cad971533e3ebab045e5565ddbdca5c682915cd6c45a4c2bb2cd129958b73c960e9e749bdf3c99aa99ea0e2ba03467a1240927cb919e33111b16
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=zxs
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://live.fanmingming.cn/tv/发现之旅.png" group-title="央视频道",发现之旅
-https://mursor.ottiptv.cc/migu/624878970.m3u8?migutoken=0f2a6786f55aa888e4a509ca0e09a0d9e45681035de7129f3f989fc620cb59ffa55ce143b6e4c24957610f5edefd23fdd56493913b8988088e2f42b04688e033d166360619625a24d0ee4431f1
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=fxzl
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN
 http://192.168.3.1:8686/rtp/239.93.50.108:5140.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
@@ -307,7 +307,7 @@ http://192.168.3.1:8686/rtp/239.93.50.95:5140.m3u8
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="纪实频道",北京纪实科教
 http://192.168.3.1:8686/rtp/239.94.0.109:5140.m3u8
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.cn/tv/纪实人文.png" group-title="纪实频道",纪实人文
-
+http://8.138.7.223/tv/shtv.php?id=xjs
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.cn/tv/金鹰纪实.png" group-title="纪实频道",金鹰纪实
 http://192.168.3.1:8686/rtp/239.94.1.1:5140.m3u8
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.cn/tv/求索纪录.png" group-title="纪实频道",求索纪录
@@ -465,7 +465,7 @@ http://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 tvg-name="莲花卫视" tvg-logo="https://live.fanmingming.cn/tv/莲花卫视.png" group-title="澳门频道",莲花卫视
 http://8.138.7.223/tv/lotustv.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.cn/tv/中天新闻台.png" group-title="台湾频道",中天新闻
-https://smart.pendy.dpdns.org/Smart.php?id=ctinews
+http://bxtv.3a.ink/api.php?id=ztxw
 #EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI3.png" group-title="台湾频道",中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-name="中天亚洲" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI4.png" group-title="台湾频道",中天亚洲
