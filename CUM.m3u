@@ -9,10 +9,10 @@ http://192.168.3.1:8687/rtp/239.0.0.12:5140.m3u8
 http://192.168.3.1:8687/rtp/239.0.0.13:5140.m3u8
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4欧洲.png" group-title="央视频道",CCTV4 欧洲
 #http://fn.tmde.top:35455/mgtv/608807419.m3u8
-https://mursor.ottiptv.cc/migu/608807419.m3u8?migutoken=17e23df1a1e63601dbf5b11af393cef727c2c7774931b8a583d2154a597b73405dab8059c5a0f7d362a1c9ae6cc70e40ff7315ff4119b2fa0c8a2365b97836b0c4fbd6e2fc722bcf334e0fa899
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4m
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4美洲.png" group-title="央视频道",CCTV4 美洲
 #http://fn.tmde.top:35455/mgtv/608807416.m3u8
-https://mursor.ottiptv.cc/migu/608807416.m3u8?migutoken=c1eb9c760bc0bdca8fe691f0c516f21717debc9cd1df29812860fa0c81b031101aa6ccd58d4b51100629f5f298fbd1dc39bb8b3c647de61eff5e6dbd2447c31bd83af45beea02dade2bcfa4e62
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4o
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://192.168.3.1:8687/rtp/239.0.0.14:5140.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
@@ -51,7 +51,7 @@ http://192.168.3.1:8687/rtp/239.0.0.27:5140.m3u8
 #EXTINF:-1 tvg-name="中学生" tvg-logo="https://live.fanmingming.cn/tv/中学生.png" group-title="央视频道",中学生
 http://192.168.3.1:8687/rtp/239.0.0.29:5140.m3u8
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://live.fanmingming.cn/tv/发现之旅.png" group-title="央视频道",发现之旅
-https://mursor.ottiptv.cc/migu/624878970.m3u8?migutoken=0f2a6786f55aa888e4a509ca0e09a0d9e45681035de7129f3f989fc620cb59ffa55ce143b6e4c24957610f5edefd23fdd56493913b8988088e2f42b04688e033d166360619625a24d0ee4431f1
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=fxzl
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN
 http://192.168.3.1:8687/rtp/239.0.0.49:5140.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
@@ -312,7 +312,7 @@ http://192.168.3.1:8687/rtp/239.0.0.32:5140.m3u8
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="纪实频道",北京纪实科教
 http://192.168.3.1:8687/rtp/239.0.0.77:5140.m3u8
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.cn/tv/纪实人文.png" group-title="纪实频道",纪实人文
-http://sc.rrs.169ol.com/PLTV/88888888/224/3221227349/index.m3u8
+http://8.138.7.223/tv/shtv.php?id=xjs
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.cn/tv/金鹰纪实.png" group-title="纪实频道",金鹰纪实
 http://192.168.3.1:8687/rtp/239.0.0.69:5140.m3u8
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.cn/tv/求索纪录.png" group-title="纪实频道",求索纪录
@@ -398,11 +398,14 @@ http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 #EXTINF:-1 tvg-name="channelv" tvg-logo="https://live.fanmingming.cn/tv/channelv.png" group-title="香港频道",channelv
 
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="香港频道",凤凰卫视中文台
-http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+#http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+http://bxtv.3a.ink/api.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰卫视资讯台
-http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+#http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+http://bxtv.3a.ink/api.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="香港频道",凤凰卫视香港台
-http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+#http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+http://bxtv.3a.ink/api.php?id=fhhk
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="香港频道",凤凰卫视电影台
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港频道",翡翠台
@@ -470,7 +473,7 @@ http://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 tvg-name="莲花卫视" tvg-logo="https://live.fanmingming.cn/tv/莲花卫视.png" group-title="澳门频道",莲花卫视
 http://8.138.7.223/tv/lotustv.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.cn/tv/中天新闻台.png" group-title="台湾频道",中天新闻
-https://smart.pendy.dpdns.org/Smart.php?id=ctinews
+http://bxtv.3a.ink/api.php?id=ztxw
 #EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI3.png" group-title="台湾频道",中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-name="中天亚洲" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI4.png" group-title="台湾频道",中天亚洲
