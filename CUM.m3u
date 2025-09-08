@@ -69,8 +69,6 @@ https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 #http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 https://0472.org/hls/cgtna.m3u8
-#EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://live.fanmingming.com/tv/环球奇观.png" group-title="央视频道",环球奇观
-
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视频道",CCTV-兵器科技
 http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视频道",CCTV-世界地理
@@ -381,7 +379,7 @@ https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 http://111.22.153.159:35455/itv/5000000002000019634.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="南国都市" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou6.png" group-title="都市生活频道",南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17d
-#EXTINF:-1 tvg-name="精彩影视" tvg-logo="" group-title="导视",精彩影视
+#EXTINF:-1 tvg-name="精彩影视" tvg-logo="" group-title="电视剧频道",精彩影视
 http://192.168.3.1:8687/rtp/239.0.0.26:5140.m3u8
 #EXTINF:-1 tvg-name="精彩导视" tvg-logo="" group-title="导视",精彩导视
 
