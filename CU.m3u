@@ -8,11 +8,9 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227435/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227373/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视频道",CCTV4 欧洲
-#http://fn.tmde.top:35455/mgtv/608807419.m3u8
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4m
+https://tv-1.iill.top/migu/cctv4o
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视频道",CCTV4 美洲
-#http://fn.tmde.top:35455/mgtv/608807416.m3u8
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4o
+https://tv-1.iill.top/migu/cctv4m
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227491/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
@@ -38,7 +36,8 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227379/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227933/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://www.lizhinas.top:1009/rtp/239.252.220.237:5140
+#http://www.lizhinas.top:1009/rtp/239.252.220.237:5140
+https://tv.iill.top/x/cctv16
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227577/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K
