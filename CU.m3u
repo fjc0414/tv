@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合 [组播线路]
 http://192.168.3.1:8687/rtp/239.0.0.10:5140.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合 [单播线路]
