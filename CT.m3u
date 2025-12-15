@@ -8,9 +8,9 @@ http://192.168.3.1:8686/rtp/239.93.14.11:5140.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
 http://192.168.3.1:8686/rtp/239.94.0.4:5140.m3u8
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视频道",CCTV4 欧洲
-https://tv.iill.top/migu/cctv4o
+https://migu.188766.xyz/?migutoken=e278507798b91001652d9753730806c4&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视频道",CCTV4 美洲
-https://tv.iill.top/migu/cctv4m
+https://migu.188766.xyz/?migutoken=e868f8ff515f75cfe6dd528ecf6d7de4&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://192.168.3.1:8686/rtp/239.93.14.12:5140.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
@@ -155,7 +155,7 @@ http://192.168.3.1:8686/rtp/239.93.14.183:5140.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://192.168.3.1:8686/rtp/239.94.0.94:5140.m3u8
 #EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古蒙语卫视.png" group-title="卫视频道",内蒙古蒙语卫视
-https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
+http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 http://192.168.3.1:8686/rtp/239.94.0.96:5140.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
@@ -353,7 +353,7 @@ http://192.168.3.1:8686/rtp/239.93.50.97:5140.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="休闲竞技",游戏风云
 http://192.168.3.1:8686/rtp/239.94.1.46:5140.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="休闲竞技",五星体育
-https://gdcucc.v1.mk/gdcucc/wxty.m3u8
+https://migu.188766.xyz/?migutoken=545b1b7e42a76a12dbe750e527600005&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
 #EXTINF:-1 tvg-name="书画频道" tvg-logo="https://live.fanmingming.com/tv/书画.png" group-title="休闲竞技",书画频道
 http://192.168.3.1:8686/rtp/239.93.50.67:5140.m3u8
 #EXTINF:-1 tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/重庆汽摩.png" group-title="休闲竞技",汽摩
