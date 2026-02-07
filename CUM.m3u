@@ -58,16 +58,20 @@ http://192.168.3.1:8687/rtp/239.0.0.49:5140.m3u8
 http://192.168.3.1:8687/rtp/239.0.0.44:5140.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
 #http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
-https://0472.org/hls/cgtne.m3u8
+#https://0472.org/hls/cgtne.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.48:5140.m3u8
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视频道",CGTN法语
 #http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-https://0472.org/hls/cgtnf.m3u8
+#https://0472.org/hls/cgtnf.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.46:5140.m3u8
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视频道",CGTN西语
 #http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-https://0472.org/hls/cgtnx.m3u8
+#https://0472.org/hls/cgtnx.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.45:5140.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 #http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-https://0472.org/hls/cgtna.m3u8
+#https://0472.org/hls/cgtna.m3u8
+http://192.168.3.1:8687/rtp/239.0.0.47:5140.m3u8
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视频道",CCTV-兵器科技
 http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视频道",CCTV-世界地理
