@@ -54,7 +54,8 @@ http://mg.hmysapp.cn:177/ckmg/zb.php?id=fxzl
 http://192.168.2.1:8687/rtp/239.0.0.49:5140.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
 #https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-https://0472.org/hls/cgtnd.m3u8
+#https://0472.org/hls/cgtnd.m3u8
+http://192.168.2.1:8687/rtp/239.0.0.44:5140.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
 #http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
 https://0472.org/hls/cgtne.m3u8
