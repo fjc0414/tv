@@ -8,9 +8,9 @@ http://192.168.3.1:8687/rtp/239.0.0.12:5140.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
 http://192.168.3.1:8687/rtp/239.0.0.13:5140.m3u8
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视频道",CCTV4 欧洲
-https://migu.188766.xyz/?migutoken=e278507798b91001652d9753730806c4&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
+http://192.168.3.254:3566/608807419
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视频道",CCTV4 美洲
-https://migu.188766.xyz/?migutoken=e868f8ff515f75cfe6dd528ecf6d7de4&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
+http://192.168.3.254:3566/608807416
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://192.168.3.1:8687/rtp/239.0.0.14:5140.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
@@ -49,7 +49,7 @@ http://192.168.3.1:8687/rtp/239.0.0.27:5140.m3u8
 #EXTINF:-1 tvg-name="中学生" tvg-logo="https://live.fanmingming.com/tv/中学生.png" group-title="央视频道",中学生
 http://192.168.3.1:8687/rtp/239.0.0.29:5140.m3u8
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://live.fanmingming.com/tv/发现之旅.png" group-title="央视频道",发现之旅
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=fxzl
+http://192.168.3.254:3566/624878970
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN
 http://192.168.3.1:8687/rtp/239.0.0.49:5140.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
@@ -190,7 +190,8 @@ http://192.168.3.1:8687/rtp/239.0.0.41:5140.m3u8
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.com/tv/延边卫视.png" group-title="卫视频道",延边卫视
 http://192.168.3.1:8687/rtp/239.0.0.76:5140.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
-http://222.128.55.152:9080/live/dwq.m3u8
+#http://222.128.55.152:9080/live/dwq.m3u8
+http://192.168.3.254:3566/608917627
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://live.fanmingming.com/tv/安多卫视.png" group-title="卫视频道",安多卫视
 http://192.168.3.1:8687/rtp/239.0.0.109:5140.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
@@ -200,9 +201,10 @@ http://192.168.3.1:8687/rtp/239.0.0.175:5140.m3u8
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="卫视频道",山东教育卫视
 http://192.168.3.1:8687/rtp/239.0.0.197:5140.m3u8
 #EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="卫视频道",农林卫视
-http://112.46.105.20:8009/hls/27/index.m3u8
+http://192.168.3.254:3566/956904896
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.com/tv/海峡卫视.png" group-title="卫视频道",海峡卫视
-http://php.jdshipin.com/TVOD/iptv.php?id=hxws
+#http://php.jdshipin.com/TVOD/iptv.php?id=hxws
+http://192.168.3.254:3566/849119120
 #EXTINF:-1 tvg-name="四川经济" tvg-logo="https://live.fanmingming.com/tv/四川经济.png" group-title="地方频道",四川经济
 http://192.168.3.1:8687/rtp/239.0.0.2:5140.m3u8
 #EXTINF:-1 tvg-name="四川文化旅游" tvg-logo="https://live.fanmingming.com/tv/四川文化旅游.png" group-title="地方频道",四川文化旅游
@@ -330,7 +332,7 @@ http://192.168.3.1:8687/rtp/239.0.0.69:5140.m3u8
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="纪实频道",求索纪录
 http://tvbox6.icu/tv/gdmzyd.php?id=104
 #EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://live.fanmingming.com/tv/环球旅游.png" group-title="纪实频道",环球旅游
-http://120.76.248.139/live/bfgd/4200000147.m3u8
+http://192.168.3.254:3566/958475356
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="纪实频道",乐游
 http://192.168.3.1:8687/rtp/239.0.0.30:5140.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="卡通频道",金鹰卡通
@@ -338,7 +340,7 @@ http://192.168.3.1:8687/rtp/239.0.0.95:5140.m3u8
 #EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="卡通频道",卡酷少儿
 http://192.168.3.1:8687/rtp/239.0.0.75:5140.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="卡通频道",嘉佳卡通
-http://175.22.226.131:888/hls/69/index.m3u8
+http://192.168.3.254:3566/614952364
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="卡通频道",动漫秀场
 http://192.168.3.1:8687/rtp/239.0.0.28:5140.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="卡通频道",哈哈炫动
@@ -354,8 +356,7 @@ http://192.168.3.1:8687/rtp/239.0.0.37:5140.m3u8
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://live.fanmingming.com/tv/天元围棋.png" group-title="休闲竞技",天元围棋
 http://wouu.net:9977/udp/239.93.42.55:5140
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://live.fanmingming.com/tv/四海钓鱼.png" group-title="休闲竞技",四海钓鱼
-#http://120.76.248.139/live/bfgd/4200000229.m3u8
-https://migu.188766.xyz/?migutoken=07fb3a97fbbeba87397fcee72d2b9f8e&id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&type=yy
+http://192.168.3.254:3566/637444975
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="休闲竞技",魅力足球
 
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="休闲竞技",游戏风云
@@ -402,7 +403,8 @@ http://192.168.3.1:8687/rtp/239.0.0.33:5140.m3u8
 #EXTINF:-1 tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="交通频道",中国交通
 http://192.168.3.1:8687/rtp/239.0.0.143:5140.m3u8
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="天气频道",中国天气
-http://111.22.153.159:35455/itv/5000000005000031974.m3u8?cdn=bestzb
+#http://111.22.153.159:35455/itv/5000000005000031974.m3u8?cdn=bestzb
+http://192.168.3.254:3566/959986621
 #EXTINF:-1 tvg-name="家政频道" tvg-logo="" group-title="家政频道",家政频道
 
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="香港频道",星空卫视
