@@ -404,17 +404,14 @@ http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 #EXTINF:-1 tvg-name="channelv" tvg-logo="https://live.fanmingming.com/tv/channelv.png" group-title="香港频道",channelv
 
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港频道",凤凰卫视中文台
-#http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-#http://bxtv.3a.ink/api.php?id=fhzw
 http://r.jdshipin.com/cCCzW
+#http://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰卫视资讯台
-#http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-#http://bxtv.3a.ink/api.php?id=fhzx
 http://r.jdshipin.com/0Rp07
+#http://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港频道",凤凰卫视香港台
-#http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-#http://bxtv.3a.ink/api.php?id=fhhk
 http://r.jdshipin.com/yDoTN
+#http://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视电影台.png" group-title="香港频道",凤凰卫视电影台
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港频道",翡翠台
