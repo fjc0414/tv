@@ -414,9 +414,9 @@ http://183.220.20.17:4321/rtp/239.11.0.156:5140
 #EXTINF:-1 tvg-name="channelv" tvg-logo="https://live.fanmingming.com/tv/channelv.png" group-title="香港频道",channelv
 http://183.220.20.17:4321/rtp/239.11.0.155:5140
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港频道",凤凰卫视中文台
-#http://r.jdshipin.com/cCCzW
+http://r.jdshipin.com/cCCzW
 #http://cdn6.163189.xyz/163189/fhzw
-http://183.220.20.17:4321/rtp/239.11.0.153:5140
+#http://183.220.20.17:4321/rtp/239.11.0.153:5140
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰卫视资讯台
 http://r.jdshipin.com/0Rp07
 #http://cdn6.163189.xyz/163189/fhzx
