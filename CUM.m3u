@@ -397,7 +397,7 @@ http://192.168.3.1:8687/rtp/239.0.0.143:5140.m3u8
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中国天气.png" group-title="特色频道",中国天气
 #http://111.22.153.159:35455/itv/5000000005000031974.m3u8?cdn=bestzb
 http://192.168.3.254:3566/959986621
-#EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南梨园.png" group-title="戏曲频道",梨园频道
+#EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南梨园.png" group-title="特色频道",梨园频道
 https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549
 #EXTINF:-1 tvg-name="西部电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西西部电影.png" group-title="特色频道",西部电影
 http://112.46.105.20:8009/hls/62/index.m3u8
