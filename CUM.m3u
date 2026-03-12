@@ -360,7 +360,7 @@ http://192.168.3.254:3566/637444975
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏风云.png" group-title="特色频道",游戏风云
 http://183.220.20.17:4321/rtp/239.10.0.103:5140
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="特色频道",五星体育
-https://migu.188766.xyz/?migutoken=545b1b7e42a76a12dbe750e527600005&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
+http://video.migu.win/hls/wxty.m3u8
 #EXTINF:-1 tvg-name="书画频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/书画.png" group-title="特色频道",书画频道
 http://192.168.3.1:8687/rtp/239.0.0.31:5140.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方财经.png" group-title="特色频道",东方财经
