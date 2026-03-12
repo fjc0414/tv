@@ -37,7 +37,8 @@ http://192.168.2.1:8687/rtp/239.0.0.21:5140.m3u8
 http://192.168.2.1:8687/rtp/239.0.0.188:5140.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
 #http://183.220.20.17:4321/rtp/239.10.0.187:5140
-http://69.30.246.194/live/cctv16.m3u8
+#http://69.30.246.194/live/cctv16.m3u8
+http://video.migu.win/hls/cctv16.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://192.168.2.1:8687/rtp/239.0.0.152:5140.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png" group-title="央视频道",CCTV-4K
