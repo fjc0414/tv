@@ -1301,8 +1301,6 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227967/index.m3u8
 http://183.220.20.17:4321/rtp/239.10.0.90:5140.m3u8
 #EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/天元围棋.png" group-title="特色频道",天元围棋
 http://192.168.3.1:4022/rtp/239.94.1.152:5140.m3u8
-#EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/天元围棋.png" group-title="特色频道",天元围棋
-http://wouu.net:9977/udp/239.93.42.55:5140
 #EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/四海钓鱼.png" group-title="特色频道",四海钓鱼
 http://192.168.3.1:4022/rtp/239.94.1.168:5140.m3u8
 #EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/四海钓鱼.png" group-title="特色频道",四海钓鱼
@@ -1411,16 +1409,12 @@ http://183.220.20.17:4321/rtp/239.10.0.143:5140.m3u8
 http://192.168.3.1:4022/rtp/239.94.1.167:5140.m3u8
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中国天气.png" group-title="特色频道",中国天气
 http://192.168.3.254:3566/959986621
-#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中国天气.png" group-title="特色频道",中国天气
-http://111.22.153.159:35455/itv/5000000005000031974.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="家政频道" tvg-name="家政频道" tvg-logo="" group-title="特色频道",家政频道
 http://192.168.3.1:4022/rtp/239.93.42.48:5140.m3u8
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png" group-title="香港频道",星空卫视
 http://192.168.3.1:4022/rtp/239.94.2.53:5140.m3u8
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png" group-title="香港频道",星空卫视
 http://183.220.20.17:4321/rtp/239.11.0.156:5140.m3u8
-#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png" group-title="香港频道",星空卫视
-http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 #EXTINF:-1 tvg-id="channelv" tvg-name="channelv" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/channelv.png" group-title="香港频道",channelv
 http://192.168.3.1:4022/rtp/239.94.2.55:5140.m3u8
 #EXTINF:-1 tvg-id="channelv" tvg-name="channelv" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/channelv.png" group-title="香港频道",channelv
@@ -1442,9 +1436,9 @@ http://r.jdshipin.com/0Rp07
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰卫视资讯台
 http://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视香港台.png" group-title="香港频道",凤凰卫视香港台
-http://r.jdshipin.com/yDoTN
-#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视香港台.png" group-title="香港频道",凤凰卫视香港台
 http://cdn6.163189.xyz/163189/fhhk
+#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视香港台.png" group-title="香港频道",凤凰卫视香港台
+http://r.jdshipin.com/yDoTN
 #EXTINF:-1 tvg-id="凤凰卫视电影台" tvg-name="凤凰卫视电影台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视电影台.png" group-title="香港频道",凤凰卫视电影台
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/香港卫视.png" group-title="香港频道",香港卫视
