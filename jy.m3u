@@ -1173,8 +1173,6 @@ http://192.168.3.1:4022/rtp/239.94.0.109:5140.m3u8
 http://192.168.3.1:4023/rtp/239.0.0.77:5140.m3u8
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京纪实科教.png" group-title="特色频道",北京纪实科教
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228069/index.m3u8
-#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京纪实科教.png" group-title="特色频道",北京纪实科教
-
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="特色频道",CETV-1
 http://192.168.3.1:4022/rtp/239.94.1.2:5140.m3u8
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="特色频道",CETV-1
