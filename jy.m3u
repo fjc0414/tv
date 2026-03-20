@@ -781,13 +781,13 @@ http://192.168.3.1:4023/rtp/239.0.0.6:5140.m3u8
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227407/index.m3u8
 #EXTINF:-1 tvg-id="星空购物" tvg-name="星空购物" tvg-logo="" group-title="四川频道",星空购物
 http://183.220.20.17:4321/rtp/239.11.0.125:5140.m3u8
-#EXTINF:-1 tvg-id="四川妇女儿童" tvg-name="四川妇女儿童" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/四川妇女儿童.png" group-title="四川频道",四川妇女儿童
+#EXTINF:-1 tvg-id="四川妇儿" tvg-name="四川妇儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/四川妇女儿童.png" group-title="四川频道",四川妇儿
 http://192.168.3.1:4022/rtp/239.94.0.75:5140.m3u8
-#EXTINF:-1 tvg-id="四川妇女儿童" tvg-name="四川妇女儿童" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/四川妇女儿童.png" group-title="四川频道",四川妇女儿童
+#EXTINF:-1 tvg-id="四川妇儿" tvg-name="四川妇儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/四川妇女儿童.png" group-title="四川频道",四川妇儿
 http://192.168.3.1:4023/rtp/239.0.0.7:5140.m3u8
-#EXTINF:-1 tvg-id="四川妇女儿童" tvg-name="四川妇女儿童" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/四川妇女儿童.png" group-title="四川频道",四川妇女儿童
+#EXTINF:-1 tvg-id="四川妇儿" tvg-name="四川妇儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/四川妇女儿童.png" group-title="四川频道",四川妇儿
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227405/index.m3u8
-#EXTINF:-1 tvg-id="四川妇女儿童" tvg-name="四川妇女儿童" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/四川妇女儿童.png" group-title="四川频道",四川妇女儿童
+#EXTINF:-1 tvg-id="四川妇儿" tvg-name="四川妇儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/四川妇女儿童.png" group-title="四川频道",四川妇儿
 http://183.220.20.17:4321/rtp/239.11.0.8:5140.m3u8
 #EXTINF:-1 tvg-id="四川科教" tvg-name="四川科教" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/四川科教.png" group-title="四川频道",四川科教
 http://192.168.3.1:4022/rtp/239.94.0.76:5140.m3u8
@@ -984,15 +984,11 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227555/index.m3u8
 #EXTINF:-1 tvg-id="德阳文旅科教" tvg-name="德阳文旅科教" tvg-logo="" group-title="四川频道",德阳文旅科教
 http://183.220.20.17:4321/rtp/239.10.0.57:5140.m3u8
 #EXTINF:-1 tvg-id="绵阳新闻综合" tvg-name="绵阳新闻综合" tvg-logo="" group-title="四川频道",绵阳新闻综合
-
-#EXTINF:-1 tvg-id="绵阳新闻综合" tvg-name="绵阳新闻综合" tvg-logo="" group-title="四川频道",绵阳新闻综合
 http://192.168.3.1:4023/rtp/239.0.0.121:5140.m3u8
 #EXTINF:-1 tvg-id="绵阳新闻综合" tvg-name="绵阳新闻综合" tvg-logo="" group-title="四川频道",绵阳新闻综合
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227521/index.m3u8
 #EXTINF:-1 tvg-id="绵阳新闻综合" tvg-name="绵阳新闻综合" tvg-logo="" group-title="四川频道",绵阳新闻综合
 http://183.220.20.17:4321/rtp/239.10.0.96:5140.m3u8
-#EXTINF:-1 tvg-id="绵阳科教生活" tvg-name="绵阳科教生活" tvg-logo="" group-title="四川频道",绵阳科教生活
-
 #EXTINF:-1 tvg-id="绵阳科教生活" tvg-name="绵阳科教生活" tvg-logo="" group-title="四川频道",绵阳科教生活
 http://192.168.3.1:4023/rtp/239.0.0.88:5140.m3u8
 #EXTINF:-1 tvg-id="绵阳科教生活" tvg-name="绵阳科教生活" tvg-logo="" group-title="四川频道",绵阳科教生活
@@ -1000,15 +996,11 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228087/index.m3u8
 #EXTINF:-1 tvg-id="绵阳科教生活" tvg-name="绵阳科教生活" tvg-logo="" group-title="四川频道",绵阳科教生活
 http://183.220.20.17:4321/rtp/239.10.0.98:5140.m3u8
 #EXTINF:-1 tvg-id="广安新闻综合" tvg-name="广安新闻综合" tvg-logo="" group-title="四川频道",广安新闻综合
-
-#EXTINF:-1 tvg-id="广安新闻综合" tvg-name="广安新闻综合" tvg-logo="" group-title="四川频道",广安新闻综合
 http://192.168.3.1:4023/rtp/239.0.0.132:5140.m3u8
 #EXTINF:-1 tvg-id="广安新闻综合" tvg-name="广安新闻综合" tvg-logo="" group-title="四川频道",广安新闻综合
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227543/index.m3u8
 #EXTINF:-1 tvg-id="广安新闻综合" tvg-name="广安新闻综合" tvg-logo="" group-title="四川频道",广安新闻综合
 http://183.220.20.17:4321/rtp/239.10.0.58:5140.m3u8
-#EXTINF:-1 tvg-id="广安文旅乡村" tvg-name="广安文旅乡村" tvg-logo="" group-title="四川频道",广安文旅乡村
-
 #EXTINF:-1 tvg-id="广安文旅乡村" tvg-name="广安文旅乡村" tvg-logo="" group-title="四川频道",广安文旅乡村
 http://192.168.3.1:4023/rtp/239.0.0.83:5140.m3u8
 #EXTINF:-1 tvg-id="广安文旅乡村" tvg-name="广安文旅乡村" tvg-logo="" group-title="四川频道",广安文旅乡村
@@ -1032,15 +1024,11 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228081/index.m3u8
 #EXTINF:-1 tvg-id="广元文化生活" tvg-name="广元文化生活" tvg-logo="" group-title="四川频道",广元文化生活
 http://183.220.20.17:4321/rtp/239.10.0.61:5140.m3u8
 #EXTINF:-1 tvg-id="南充综合" tvg-name="南充综合" tvg-logo="" group-title="四川频道",南充综合
-
-#EXTINF:-1 tvg-id="南充综合" tvg-name="南充综合" tvg-logo="" group-title="四川频道",南充综合
 http://192.168.3.1:4023/rtp/239.0.0.176:5140.m3u8
 #EXTINF:-1 tvg-id="南充综合" tvg-name="南充综合" tvg-logo="" group-title="四川频道",南充综合
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227805/index.m3u8
 #EXTINF:-1 tvg-id="南充综合" tvg-name="南充综合" tvg-logo="" group-title="四川频道",南充综合
 http://183.220.20.17:4321/rtp/239.10.0.68:5140.m3u8
-#EXTINF:-1 tvg-id="南充科教生活" tvg-name="南充科教生活" tvg-logo="" group-title="四川频道",南充科教生活
-
 #EXTINF:-1 tvg-id="南充科教生活" tvg-name="南充科教生活" tvg-logo="" group-title="四川频道",南充科教生活
 http://192.168.3.1:4023/rtp/239.0.0.89:5140.m3u8
 #EXTINF:-1 tvg-id="南充科教生活" tvg-name="南充科教生活" tvg-logo="" group-title="四川频道",南充科教生活
@@ -1048,15 +1036,11 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228094/index.m3u8
 #EXTINF:-1 tvg-id="南充科教生活" tvg-name="南充科教生活" tvg-logo="" group-title="四川频道",南充科教生活
 http://183.220.20.17:4321/rtp/239.10.0.70:5140.m3u8
 #EXTINF:-1 tvg-id="达州新闻综合" tvg-name="达州新闻综合" tvg-logo="" group-title="四川频道",达州新闻综合
-
-#EXTINF:-1 tvg-id="达州新闻综合" tvg-name="达州新闻综合" tvg-logo="" group-title="四川频道",达州新闻综合
 http://192.168.3.1:4023/rtp/239.0.0.133:5140.m3u8
 #EXTINF:-1 tvg-id="达州新闻综合" tvg-name="达州新闻综合" tvg-logo="" group-title="四川频道",达州新闻综合
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227581/index.m3u8
 #EXTINF:-1 tvg-id="达州新闻综合" tvg-name="达州新闻综合" tvg-logo="" group-title="四川频道",达州新闻综合
 http://183.220.20.17:4321/rtp/239.10.0.54:5140.m3u8
-#EXTINF:-1 tvg-id="达州文化生活" tvg-name="达州文化生活" tvg-logo="" group-title="四川频道",达州文化生活
-
 #EXTINF:-1 tvg-id="达州文化生活" tvg-name="达州文化生活" tvg-logo="" group-title="四川频道",达州文化生活
 http://192.168.3.1:4023/rtp/239.0.0.81:5140.m3u8
 #EXTINF:-1 tvg-id="达州文化生活" tvg-name="达州文化生活" tvg-logo="" group-title="四川频道",达州文化生活
@@ -1064,15 +1048,11 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228077/index.m3u8
 #EXTINF:-1 tvg-id="达州文化生活" tvg-name="达州文化生活" tvg-logo="" group-title="四川频道",达州文化生活
 http://183.220.20.17:4321/rtp/239.10.0.55:5140.m3u8
 #EXTINF:-1 tvg-id="巴中综合" tvg-name="巴中综合" tvg-logo="" group-title="四川频道",巴中综合
-
-#EXTINF:-1 tvg-id="巴中综合" tvg-name="巴中综合" tvg-logo="" group-title="四川频道",巴中综合
 http://192.168.3.1:4023/rtp/239.0.0.139:5140.m3u8
 #EXTINF:-1 tvg-id="巴中综合" tvg-name="巴中综合" tvg-logo="" group-title="四川频道",巴中综合
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227557/index.m3u8
 #EXTINF:-1 tvg-id="巴中综合" tvg-name="巴中综合" tvg-logo="" group-title="四川频道",巴中综合
 http://183.220.20.17:4321/rtp/239.10.0.52:5140.m3u8
-#EXTINF:-1 tvg-id="巴中文旅生活" tvg-name="巴中文旅生活" tvg-logo="" group-title="四川频道",巴中文旅生活
-
 #EXTINF:-1 tvg-id="巴中文旅生活" tvg-name="巴中文旅生活" tvg-logo="" group-title="四川频道",巴中文旅生活
 http://192.168.3.1:4023/rtp/239.0.0.80:5140.m3u8
 #EXTINF:-1 tvg-id="巴中文旅生活" tvg-name="巴中文旅生活" tvg-logo="" group-title="四川频道",巴中文旅生活
@@ -1080,15 +1060,11 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228088/index.m3u8
 #EXTINF:-1 tvg-id="巴中文旅生活" tvg-name="巴中文旅生活" tvg-logo="" group-title="四川频道",巴中文旅生活
 http://183.220.20.17:4321/rtp/239.10.0.53:5140.m3u8
 #EXTINF:-1 tvg-id="遂宁综合" tvg-name="遂宁综合" tvg-logo="" group-title="四川频道",遂宁综合
-
-#EXTINF:-1 tvg-id="遂宁综合" tvg-name="遂宁综合" tvg-logo="" group-title="四川频道",遂宁综合
 http://192.168.3.1:4023/rtp/239.0.0.127:5140.m3u8
 #EXTINF:-1 tvg-id="遂宁综合" tvg-name="遂宁综合" tvg-logo="" group-title="四川频道",遂宁综合
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227533/index.m3u8
 #EXTINF:-1 tvg-id="遂宁综合" tvg-name="遂宁综合" tvg-logo="" group-title="四川频道",遂宁综合
 http://183.220.20.17:4321/rtp/239.10.0.76:5140.m3u8
-#EXTINF:-1 tvg-id="遂宁文化生活" tvg-name="遂宁文化生活" tvg-logo="" group-title="四川频道",遂宁文化生活
-
 #EXTINF:-1 tvg-id="遂宁文化生活" tvg-name="遂宁文化生活" tvg-logo="" group-title="四川频道",遂宁文化生活
 http://192.168.3.1:4023/rtp/239.0.0.92:5140.m3u8
 #EXTINF:-1 tvg-id="遂宁文化生活" tvg-name="遂宁文化生活" tvg-logo="" group-title="四川频道",遂宁文化生活
@@ -1128,23 +1104,17 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228084/index.m3u8
 #EXTINF:-1 tvg-id="攀枝花新闻综合" tvg-name="攀枝花新闻综合" tvg-logo="" group-title="四川频道",攀枝花新闻综合
 http://183.220.20.17:4321/rtp/239.10.0.74:5140.m3u8
 #EXTINF:-1 tvg-id="甘孜综合" tvg-name="甘孜综合" tvg-logo="" group-title="四川频道",甘孜综合
-
-#EXTINF:-1 tvg-id="甘孜综合" tvg-name="甘孜综合" tvg-logo="" group-title="四川频道",甘孜综合
 http://192.168.3.1:4023/rtp/239.0.0.135:5140.m3u8
 #EXTINF:-1 tvg-id="甘孜综合" tvg-name="甘孜综合" tvg-logo="" group-title="四川频道",甘孜综合
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227966/index.m3u8
 #EXTINF:-1 tvg-id="甘孜综合" tvg-name="甘孜综合" tvg-logo="" group-title="四川频道",甘孜综合
 http://183.220.20.17:4321/rtp/239.10.0.32:5140.m3u8
 #EXTINF:-1 tvg-id="阿坝新闻综合" tvg-name="阿坝新闻综合" tvg-logo="" group-title="四川频道",阿坝新闻综合
-
-#EXTINF:-1 tvg-id="阿坝新闻综合" tvg-name="阿坝新闻综合" tvg-logo="" group-title="四川频道",阿坝新闻综合
 http://192.168.3.1:4023/rtp/239.0.0.141:5140.m3u8
 #EXTINF:-1 tvg-id="阿坝新闻综合" tvg-name="阿坝新闻综合" tvg-logo="" group-title="四川频道",阿坝新闻综合
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227561/index.m3u8
 #EXTINF:-1 tvg-id="阿坝新闻综合" tvg-name="阿坝新闻综合" tvg-logo="" group-title="四川频道",阿坝新闻综合
 http://183.220.20.17:4321/rtp/239.10.0.50:5140.m3u8
-#EXTINF:-1 tvg-id="阿坝藏语频道" tvg-name="阿坝藏语频道" tvg-logo="" group-title="四川频道",阿坝藏语频道
-
 #EXTINF:-1 tvg-id="阿坝藏语频道" tvg-name="阿坝藏语频道" tvg-logo="" group-title="四川频道",阿坝藏语频道
 http://192.168.3.1:4023/rtp/239.0.0.142:5140.m3u8
 #EXTINF:-1 tvg-id="阿坝藏语频道" tvg-name="阿坝藏语频道" tvg-logo="" group-title="四川频道",阿坝藏语频道
