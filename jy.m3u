@@ -1351,8 +1351,6 @@ http://cdn6.163189.xyz/163189/cwjd
 http://192.168.3.1:4022/rtp/239.94.1.146:5140.m3u8
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/生活时尚.png" group-title="特色频道",生活时尚
 http://183.220.20.17:4321/rtp/239.10.0.102:5140.m3u8
-#EXTINF:-1 tvg-id="南国都市" tvg-name="南国都市" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou6.png" group-title="特色频道",南国都市
-
 #EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="" group-title="特色频道",精彩影视
 http://192.168.3.1:4022/rtp/239.94.1.172:5140.m3u8
 #EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="" group-title="特色频道",精彩影视
@@ -1377,8 +1375,6 @@ http://183.220.20.17:4321/rtp/239.10.0.143:5140.m3u8
 http://192.168.3.1:4022/rtp/239.94.1.167:5140.m3u8
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中国天气.png" group-title="特色频道",中国天气
 http://192.168.3.254:3566/959986621
-#EXTINF:-1 tvg-id="家政频道" tvg-name="家政频道" tvg-logo="" group-title="特色频道",家政频道
-http://192.168.3.1:4022/rtp/239.93.42.48:5140.m3u8
 #EXTINF:-1 tvg-id="川超" tvg-name="川超" tvg-logo="" group-title="特色频道",川超
 http://183.220.20.17:4321/rtp/239.10.0.136:5140.m3u8
 #EXTINF:-1 tvg-id="川超" tvg-name="川超" tvg-logo="" group-title="特色频道",川超
