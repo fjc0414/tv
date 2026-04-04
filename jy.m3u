@@ -1207,6 +1207,8 @@ http://192.168.3.1:4023/rtp/239.0.0.30:5140.m3u8
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227975/index.m3u8
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/乐游.png" group-title="特色频道",乐游
 http://183.220.20.17:4321/rtp/239.10.0.105:5140.m3u8
+#EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中华特产.png" group-title="特色频道",中华特产
+http://192.168.3.254:3566/959986618
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="特色频道",金鹰卡通
 http://192.168.3.1:4022/rtp/239.94.1.30:5140.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="特色频道",金鹰卡通
