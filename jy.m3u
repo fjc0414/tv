@@ -718,8 +718,6 @@ http://sc.rrs.169ol.com/PLTV/88888888/224/3221227938/index.m3u8
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
 http://183.220.20.17:4321/rtp/239.11.0.83:5140.m3u8
 #EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/农林卫视.png" group-title="卫视频道",农林卫视
-http://192.168.3.1:4022/rtp/239.94.0.104:5140.m3u8
-#EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/农林卫视.png" group-title="卫视频道",农林卫视
 http://192.168.3.254:3566/956904896
 #EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东教育.png" group-title="卫视频道",山东教育卫视
 http://192.168.3.1:4022/rtp/239.94.0.106:5140.m3u8
@@ -1245,14 +1243,6 @@ http://192.168.3.1:4022/rtp/239.94.1.31:5140.m3u8
 http://192.168.3.254:3566/626064703
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="特色频道",优漫卡通
 http://183.220.20.17:4321/rtp/239.11.0.63:5140.m3u8
-#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/茶.png" group-title="特色频道",茶频道
-http://192.168.3.1:4022/rtp/239.94.1.154:5140.m3u8
-#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/茶.png" group-title="特色频道",茶频道
-http://192.168.3.1:4023/rtp/239.0.0.36:5140.m3u8
-#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/茶.png" group-title="特色频道",茶频道
-http://sc.rrs.169ol.com/PLTV/88888888/224/3221227974/index.m3u8
-#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/茶.png" group-title="特色频道",茶频道
-http://192.168.3.254:3566/961930369
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="特色频道",快乐垂钓
 http://192.168.3.1:4022/rtp/239.94.1.153:5140.m3u8
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="特色频道",快乐垂钓
@@ -1279,6 +1269,8 @@ http://192.168.3.1:4022/rtp/239.94.1.163:5140.m3u8
 http://192.168.3.1:4023/rtp/239.0.0.31:5140.m3u8
 #EXTINF:-1 tvg-id="书画频道" tvg-name="书画频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/书画.png" group-title="特色频道",书画频道
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227982/index.m3u8
+#EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南梨园.png" group-title="特色频道",梨园频道
+http://192.168.3.254:3566/961930369
 #EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南梨园.png" group-title="特色频道",梨园频道
 https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方财经.png" group-title="特色频道",东方财经
