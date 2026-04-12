@@ -8,7 +8,7 @@ http://sc.rrs.169ol.com/PLTV/88888888/224/3221227479/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://192.168.3.254:3566/608807420
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://183.220.20.17:4321/rtp/239.10.0.151:5140.m3u8
+http://183.220.20.17:4321/rtp/239.11.0.65:5140.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
 http://192.168.3.1:4022/rtp/239.94.0.2:5140.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
@@ -1145,6 +1145,8 @@ http://192.168.3.1:4022/rtp/239.94.0.109:5140.m3u8
 http://192.168.3.1:4023/rtp/239.0.0.77:5140.m3u8
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京纪实科教.png" group-title="特色频道",北京纪实科教
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221228069/index.m3u8
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京纪实科教.png" group-title="特色频道",北京纪实科教
+http://183.220.20.17:4321/rtp/239.11.0.126:5140.m3u8
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="特色频道",CETV-1
 http://192.168.3.1:4022/rtp/239.94.1.2:5140.m3u8
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="特色频道",CETV-1
@@ -1245,6 +1247,8 @@ http://192.168.3.1:4022/rtp/239.94.1.31:5140.m3u8
 http://192.168.3.254:3566/626064703
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="特色频道",优漫卡通
 http://183.220.20.17:4321/rtp/239.11.0.63:5140.m3u8
+#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/新动漫.png" group-title="特色频道",新动漫
+http://183.220.20.17:4321/rtp/239.10.0.159:5140.m3u8
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="特色频道",快乐垂钓
 http://192.168.3.1:4022/rtp/239.94.1.153:5140.m3u8
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="特色频道",快乐垂钓
