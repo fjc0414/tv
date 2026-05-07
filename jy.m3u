@@ -735,21 +735,21 @@ http://192.168.3.254:3566/608917627
 http://192.168.3.254:3566/849119120
 #EXTINF:-1 tvg-id="21" tvg-name="海峡卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/海峡卫视.png" group-title="卫视频道",海峡卫视
 http://r.jdshipin.com/WtYt3
-#EXTINF:-1 tvg-id="1354" tvg-name="SCTV3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan1.png" group-title="四川频道",四川经济
+#EXTINF:-1 tvg-id="1353" tvg-name="SCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan1.png" group-title="四川频道",四川经济
 http://192.168.3.1:4022/rtp/239.94.0.70:5140.m3u8
-#EXTINF:-1 tvg-id="1354" tvg-name="SCTV3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan1.png" group-title="四川频道",四川经济
+#EXTINF:-1 tvg-id="1353" tvg-name="SCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan1.png" group-title="四川频道",四川经济
 http://192.168.3.1:4023/rtp/239.0.0.2:5140.m3u8
-#EXTINF:-1 tvg-id="1354" tvg-name="SCTV3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan1.png" group-title="四川频道",四川经济
+#EXTINF:-1 tvg-id="1353" tvg-name="SCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan1.png" group-title="四川频道",四川经济
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227415/index.m3u8
-#EXTINF:-1 tvg-id="1354" tvg-name="SCTV3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan1.png" group-title="四川频道",四川经济
+#EXTINF:-1 tvg-id="1353" tvg-name="SCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan1.png" group-title="四川频道",四川经济
 http://183.220.20.17:4321/rtp/239.11.0.2:5140.m3u8
-#EXTINF:-1 tvg-id="1353" tvg-name="SCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan2.png" group-title="四川频道",四川文化旅游
+#EXTINF:-1 tvg-id="1354" tvg-name="SCTV3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan2.png" group-title="四川频道",四川文化旅游
 http://192.168.3.1:4022/rtp/239.94.0.71:5140.m3u8
-#EXTINF:-1 tvg-id="1353" tvg-name="SCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan2.png" group-title="四川频道",四川文化旅游
+#EXTINF:-1 tvg-id="1354" tvg-name="SCTV3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan2.png" group-title="四川频道",四川文化旅游
 http://192.168.3.1:4023/rtp/239.0.0.3:5140.m3u8
-#EXTINF:-1 tvg-id="1353" tvg-name="SCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan2.png" group-title="四川频道",四川文化旅游
+#EXTINF:-1 tvg-id="1354" tvg-name="SCTV3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan2.png" group-title="四川频道",四川文化旅游
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227413/index.m3u8
-#EXTINF:-1 tvg-id="1353" tvg-name="SCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan2.png" group-title="四川频道",四川文化旅游
+#EXTINF:-1 tvg-id="1354" tvg-name="SCTV3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan2.png" group-title="四川频道",四川文化旅游
 http://183.220.20.17:4321/rtp/239.11.0.3:5140.m3u8
 #EXTINF:-1 tvg-id="1355" tvg-name="SCTV4" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan3.png" group-title="四川频道",四川新闻
 http://192.168.3.1:4022/rtp/239.94.0.72:5140.m3u8
