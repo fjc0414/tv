@@ -317,13 +317,13 @@ http://sc.rrs.169ol.com/PLTV/88888888/224/3221227397/index.m3u8
 http://192.168.3.254:3566/630287636
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/北京卫视.png" group-title="卫视频道",北京卫视
 http://183.220.20.17:4321/rtp/239.11.0.121:5140.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/北京卫视4K.png" group-title="卫视频道",北京卫视4K
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/北京卫视4K.png" group-title="卫视频道",北京卫视4K
 http://192.168.3.1:4022/rtp/239.94.0.112:5140.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/北京卫视4K.png" group-title="卫视频道",北京卫视4K
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/北京卫视4K.png" group-title="卫视频道",北京卫视4K
 http://192.168.3.1:4023/rtp/239.0.0.198:5140.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/北京卫视4K.png" group-title="卫视频道",北京卫视4K
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/北京卫视4K.png" group-title="卫视频道",北京卫视4K
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227988/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/北京卫视4K.png" group-title="卫视频道",北京卫视4K
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/北京卫视4K.png" group-title="卫视频道",北京卫视4K
 http://183.220.20.17:4321/rtp/239.10.0.91:5140.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/东方卫视.png" group-title="卫视频道",东方卫视
 http://192.168.3.1:4022/rtp/239.94.0.64:5140.m3u8
@@ -335,13 +335,13 @@ http://sc.rrs.169ol.com/PLTV/88888888/224/3221227401/index.m3u8
 http://192.168.3.254:3566/651632648
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/东方卫视.png" group-title="卫视频道",东方卫视
 http://183.220.20.17:4321/rtp/239.11.0.68:5140.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/refs/heads/main/logo/上海/东方卫视4K.png" group-title="卫视频道",东方卫视4K
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/东方卫视4K.png" group-title="卫视频道",东方卫视4K
 http://192.168.3.1:4022/rtp/239.94.0.119:5140.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/refs/heads/main/logo/上海/东方卫视4K.png" group-title="卫视频道",东方卫视4K
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/东方卫视4K.png" group-title="卫视频道",东方卫视4K
 http://192.168.3.1:4023/rtp/239.0.0.207:5140.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/refs/heads/main/logo/上海/东方卫视4K.png" group-title="卫视频道",东方卫视4K
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/东方卫视4K.png" group-title="卫视频道",东方卫视4K
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227988/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/refs/heads/main/logo/上海/东方卫视4K.png" group-title="卫视频道",东方卫视4K
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/东方卫视4K.png" group-title="卫视频道",东方卫视4K
 http://183.220.20.17:4321/rtp/239.11.0.90:5140.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/广东卫视.png" group-title="卫视频道",广东卫视
 http://192.168.3.1:4022/rtp/239.94.0.67:5140.m3u8
@@ -353,13 +353,13 @@ http://sc.rrs.169ol.com/PLTV/88888888/224/3221227361/index.m3u8
 http://192.168.3.254:3566/608831231
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/广东卫视.png" group-title="卫视频道",广东卫视
 http://183.220.20.17:4321/rtp/239.11.0.115:5140.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/广东4K.png" group-title="卫视频道",广东卫视4K
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/广东卫视4K.png" group-title="卫视频道",广东卫视4K
 http://192.168.3.1:4022/rtp/239.94.0.114:5140.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/广东4K.png" group-title="卫视频道",广东卫视4K
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/广东卫视4K.png" group-title="卫视频道",广东卫视4K
 http://192.168.3.1:4023/rtp/239.0.0.216:5140.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/广东4K.png" group-title="卫视频道",广东卫视4K
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/广东卫视4K.png" group-title="卫视频道",广东卫视4K
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227988/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/广东4K.png" group-title="卫视频道",广东卫视4K
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/广东卫视4K.png" group-title="卫视频道",广东卫视4K
 http://183.220.20.17:4321/rtp/239.10.0.94:5140.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://192.168.3.1:4022/rtp/239.94.0.66:5140.m3u8
@@ -369,13 +369,13 @@ http://192.168.3.1:4023/rtp/239.0.0.71:5140.m3u8
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227419/index.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://183.220.20.17:4321/rtp/239.11.0.71:5140.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/深圳卫视4K.png" group-title="卫视频道",深圳卫视4K
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/深圳卫视4K.png" group-title="卫视频道",深圳卫视4K
 http://192.168.3.1:4022/rtp/239.94.0.113:5140.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/深圳卫视4K.png" group-title="卫视频道",深圳卫视4K
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/深圳卫视4K.png" group-title="卫视频道",深圳卫视4K
 http://192.168.3.1:4023/rtp/239.0.0.215:5140.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/深圳卫视4K.png" group-title="卫视频道",深圳卫视4K
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/深圳卫视4K.png" group-title="卫视频道",深圳卫视4K
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227988/index.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/深圳卫视4K.png" group-title="卫视频道",深圳卫视4K
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/深圳卫视4K.png" group-title="卫视频道",深圳卫视4K
 http://183.220.20.17:4321/rtp/239.10.0.93:5140.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://192.168.3.1:4022/rtp/239.94.0.61:5140.m3u8
@@ -385,13 +385,13 @@ http://192.168.3.1:4023/rtp/239.0.0.68:5140.m3u8
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227369/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://183.220.20.17:4321/rtp/239.11.0.119:5140.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/refs/heads/main/logo/湖南/湖南卫视4K.png" group-title="卫视频道",湖南卫视4K
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/湖南卫视4K.png" group-title="卫视频道",湖南卫视4K
 http://192.168.3.1:4022/rtp/239.94.0.116:5140.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/refs/heads/main/logo/湖南/湖南卫视4K.png" group-title="卫视频道",湖南卫视4K
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/湖南卫视4K.png" group-title="卫视频道",湖南卫视4K
 http://192.168.3.1:4023/rtp/239.0.0.204:5140.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/refs/heads/main/logo/湖南/湖南卫视4K.png" group-title="卫视频道",湖南卫视4K
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/湖南卫视4K.png" group-title="卫视频道",湖南卫视4K
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227988/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/refs/heads/main/logo/湖南/湖南卫视4K.png" group-title="卫视频道",湖南卫视4K
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/湖南卫视4K.png" group-title="卫视频道",湖南卫视4K
 http://183.220.20.17:4321/rtp/239.11.0.87:5140.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://192.168.3.1:4022/rtp/239.94.0.63:5140.m3u8
@@ -401,13 +401,13 @@ http://192.168.3.1:4023/rtp/239.0.0.61:5140.m3u8
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227351/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://183.220.20.17:4321/rtp/239.11.0.70:5140.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/refs/heads/main/logo/浙江/浙江卫视4K.png" group-title="卫视频道",浙江卫视4K
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/浙江卫视4K.png" group-title="卫视频道",浙江卫视4K
 http://192.168.3.1:4022/rtp/239.94.0.118:5140.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/refs/heads/main/logo/浙江/浙江卫视4K.png" group-title="卫视频道",浙江卫视4K
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/浙江卫视4K.png" group-title="卫视频道",浙江卫视4K
 http://192.168.3.1:4023/rtp/239.0.0.206:5140.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/refs/heads/main/logo/浙江/浙江卫视4K.png" group-title="卫视频道",浙江卫视4K
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/浙江卫视4K.png" group-title="卫视频道",浙江卫视4K
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227988/index.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/refs/heads/main/logo/浙江/浙江卫视4K.png" group-title="卫视频道",浙江卫视4K
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/浙江卫视4K.png" group-title="卫视频道",浙江卫视4K
 http://183.220.20.17:4321/rtp/239.11.0.89:5140.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://192.168.3.1:4022/rtp/239.94.0.62:5140.m3u8
@@ -419,13 +419,13 @@ http://sc.rrs.169ol.com/PLTV/88888888/224/3221227421/index.m3u8
 http://192.168.3.254:3566/623899368
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://183.220.20.17:4321/rtp/239.11.0.76:5140.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/refs/heads/main/logo/江苏/江苏卫视4K.png" group-title="卫视频道",江苏卫视4K
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/江苏卫视4K.png" group-title="卫视频道",江苏卫视4K
 http://192.168.3.1:4022/rtp/239.94.0.117:5140.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/refs/heads/main/logo/江苏/江苏卫视4K.png" group-title="卫视频道",江苏卫视4K
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/江苏卫视4K.png" group-title="卫视频道",江苏卫视4K
 http://192.168.3.1:4023/rtp/239.0.0.205:5140.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/refs/heads/main/logo/江苏/江苏卫视4K.png" group-title="卫视频道",江苏卫视4K
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/江苏卫视4K.png" group-title="卫视频道",江苏卫视4K
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227988/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/refs/heads/main/logo/江苏/江苏卫视4K.png" group-title="卫视频道",江苏卫视4K
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/江苏卫视4K.png" group-title="卫视频道",江苏卫视4K
 http://183.220.20.17:4321/rtp/239.11.0.88:5140.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/四川卫视.png" group-title="卫视频道",四川卫视
 http://192.168.3.1:4022/rtp/239.94.0.59:5140.m3u8
@@ -435,13 +435,13 @@ http://192.168.3.1:4023/rtp/239.0.0.1:5140.m3u8
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227417/index.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/四川卫视.png" group-title="卫视频道",四川卫视
 http://183.220.20.17:4321/rtp/239.11.0.78:5140.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/refs/heads/main/logo/四川/四川卫视4K.png" group-title="卫视频道",四川卫视4K
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/四川卫视4K.png" group-title="卫视频道",四川卫视4K
 http://192.168.3.1:4022/rtp/239.94.0.115:5140.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/refs/heads/main/logo/四川/四川卫视4K.png" group-title="卫视频道",四川卫视4K
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/四川卫视4K.png" group-title="卫视频道",四川卫视4K
 http://192.168.3.1:4023/rtp/239.0.0.203:5140.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/refs/heads/main/logo/四川/四川卫视4K.png" group-title="卫视频道",四川卫视4K
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/四川卫视4K.png" group-title="卫视频道",四川卫视4K
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227988/index.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/refs/heads/main/logo/四川/四川卫视4K.png" group-title="卫视频道",四川卫视4K
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/四川卫视4K.png" group-title="卫视频道",四川卫视4K
 http://183.220.20.17:4321/rtp/239.11.0.43:5140.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/山东卫视.png" group-title="卫视频道",山东卫视
 http://192.168.3.1:4022/rtp/239.94.0.69:5140.m3u8
@@ -451,13 +451,13 @@ http://192.168.3.1:4023/rtp/239.0.0.66:5140.m3u8
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227365/index.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/山东卫视.png" group-title="卫视频道",山东卫视
 http://183.220.20.17:4321/rtp/239.11.0.73:5140.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/refs/heads/main/logo/山东/山东卫视4K.png" group-title="卫视频道",山东卫视4K
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/山东卫视4K.png" group-title="卫视频道",山东卫视4K
 http://192.168.3.1:4022/rtp/239.94.0.120:5140.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/refs/heads/main/logo/山东/山东卫视4K.png" group-title="卫视频道",山东卫视4K
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/山东卫视4K.png" group-title="卫视频道",山东卫视4K
 http://192.168.3.1:4023/rtp/239.0.0.208:5140.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/refs/heads/main/logo/山东/山东卫视4K.png" group-title="卫视频道",山东卫视4K
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/山东卫视4K.png" group-title="卫视频道",山东卫视4K
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227988/index.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/refs/heads/main/logo/山东/山东卫视4K.png" group-title="卫视频道",山东卫视4K
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/山东卫视4K.png" group-title="卫视频道",山东卫视4K
 http://183.220.20.17:4321/rtp/239.11.0.91:5140.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/天津卫视.png" group-title="卫视频道",天津卫视
 http://192.168.3.1:4022/rtp/239.94.0.68:5140.m3u8
@@ -1655,31 +1655,31 @@ https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-id="234" tvg-name="FashionTV" tvg-logo="https://epg.112114.xyz/logo/FASHIONTV.png" group-title="海外频道",FashionTV
 http://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="266" tvg-name="RT News" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/RTNews.png" group-title="海外频道",RT News
+#EXTINF:-1 tvg-id="266" tvg-name="RT News" tvg-logo="https://epg.112114.xyz/logo/RTNEWS.png" group-title="海外频道",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RT Español" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/RTNews.png" group-title="海外频道",RT Español
+#EXTINF:-1 tvg-id="" tvg-name="RT Español" tvg-logo="https://epg.112114.xyz/logo/RTNEWS.png" group-title="海外频道",RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RT Français" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/RTNews.png" group-title="海外频道",RT Français
+#EXTINF:-1 tvg-id="" tvg-name="RT Français" tvg-logo="https://epg.112114.xyz/logo/RTNEWS.png" group-title="海外频道",RT Français
 https://rt-fra.rttv.com/dvr/rtfrance/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RT Arabic" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/RTNews.png" group-title="海外频道",RT Arabic
+#EXTINF:-1 tvg-id="" tvg-name="RT Arabic" tvg-logo="https://epg.112114.xyz/logo/RTNEWS.png" group-title="海外频道",RT Arabic
 https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RT DE" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/RTNews.png" group-title="海外频道",RT DE
+#EXTINF:-1 tvg-id="" tvg-name="RT DE" tvg-logo="https://epg.112114.xyz/logo/RTNEWS.png" group-title="海外频道",RT DE
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RT Balkan" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/RTNews.png" group-title="海外频道",RT Balkan
+#EXTINF:-1 tvg-id="" tvg-name="RT Balkan" tvg-logo="https://epg.112114.xyz/logo/RTNEWS.png" group-title="海外频道",RT Balkan
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RT Documentary" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/RTDoc.png" group-title="海外频道",RT Documentary
+#EXTINF:-1 tvg-id="" tvg-name="RT Documentary" tvg-logo="https://epg.112114.xyz/logo/RT.png" group-title="海外频道",RT Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RT Doc-Русский" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/RTDoc.png" group-title="海外频道",RT Doc-Русский
+#EXTINF:-1 tvg-id="" tvg-name="RT Doc-Русский" tvg-logo="https://epg.112114.xyz/logo/RT.png" group-title="海外频道",RT Doc-Русский
 https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT World" tvg-logo="" group-title="海外频道",TRT World
+#EXTINF:-1 tvg-id="" tvg-name="TRT World" tvg-logo="https://epg.112114.xyz/logo/TRT%20WORLD.png" group-title="海外频道",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WION" tvg-logo="" group-title="海外频道",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROCK Action" tvg-logo="" group-title="海外频道",ROCK Action
+#EXTINF:-1 tvg-id="" tvg-name="ROCK Action" tvg-logo="https://epg.112114.xyz/logo/ROCKACTION.png" group-title="海外频道",ROCK Action
 http://iptv.4666888.xyz/iptv2A.php?id=50
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="" group-title="海外频道",Red Bull TV
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="https://epg.112114.xyz/logo/REDBULL.png" group-title="海外频道",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-id="1460" tvg-name="Discovery" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Discovery.png" group-title="海外频道",Discovery
+#EXTINF:-1 tvg-id="1460" tvg-name="Discovery" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="海外频道",Discovery
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="海外频道",National Geographic
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://epg.112114.xyz/logo/NATIONALGEOGRAPHIC.png" group-title="海外频道",National Geographic
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
