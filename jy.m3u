@@ -1437,13 +1437,13 @@ http://php.jdshipin.com:8880/smt.php?id=inews_twn
 https://hls.iill.top/api/TVB-News/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVB戏剧" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB%20Pearl%20Drama明珠剧集台.png" group-title="香港频道",TVB戏剧
 http://iptv.4666888.xyz/iptv2A.php?id=33
-#EXTINF:-1 tvg-id="" tvg-name="TVB武侠" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB功夫台.png" group-title="香港频道",TVB武侠
+#EXTINF:-1 tvg-id="" tvg-name="TVB功夫台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB功夫台.png" group-title="香港频道",TVB功夫台
 http://iptv.4666888.xyz/iptv2A.php?id=33
-#EXTINF:-1 tvg-id="" tvg-name="TVB武侠" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB功夫台.png" group-title="香港频道",TVB武侠
+#EXTINF:-1 tvg-id="" tvg-name="TVB功夫台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB功夫台.png" group-title="香港频道",TVB功夫台
 http://cdn6.163189.xyz/163189/yzwx
-#EXTINF:-1 tvg-id="" tvg-name="TVB武侠" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB功夫台.png" group-title="香港频道",TVB武侠
+#EXTINF:-1 tvg-id="" tvg-name="TVB功夫台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB功夫台.png" group-title="香港频道",TVB功夫台
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 tvg-id="" tvg-name="MYTV SUPER" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/MyTV%20Super%2018台.png" group-title="香港频道",MYTV SUPER
+#EXTINF:-1 tvg-id="" tvg-name="MYTV SUPER 18" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/MyTV%20Super%2018台.png" group-title="香港频道",MYTV SUPER 18
 http://iptv.4666888.xyz/iptv2A.php?id=24
 #EXTINF:-1 tvg-id="" tvg-name="NOW新闻台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW新闻台.png" group-title="香港频道",NOW新闻台
 http://cdn.163189.xyz/163189/now
@@ -1595,27 +1595,27 @@ https://cdn6.163189.xyz/163189/ch5
 https://cdn6.163189.xyz/163189/ch8
 #EXTINF:-1 tvg-id="" tvg-name="Channel U" tvg-logo="https://epg.112114.xyz/logo/CHANNELU.png" group-title="海外频道",Channel U
 https://cdn6.163189.xyz/163189/chu
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/1200px--n-b-a_-t-v.svg.png" group-title="海外频道",NBA TV
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://epg.112114.xyz/logo/NBATV.png" group-title="海外频道",NBA TV
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/LoveNature.png" group-title="海外频道",Love Nature
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/Love%20Nature(台湾)" group-title="海外频道",Love Nature
 http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/5001/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wild Earth" tvg-logo="" group-title="海外频道",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-id="311" tvg-name="Outdoor" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/Outdoor.png" group-title="海外频道",Outdoor
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astro AOD" tvg-logo="https://epg.v1.mk/logo/AstroAOD.png" group-title="海外频道",Astro AOD
+#EXTINF:-1 tvg-id="" tvg-name="Astro AOD" tvg-logo="https://epg.112114.xyz/logo/ASTROAOD.png" group-title="海外频道",Astro AOD
 http://php.jdshipin.com:8880/smt.php?id=Aodhd
-#EXTINF:-1 tvg-id="" tvg-name="Astro AEC" tvg-logo="https://epg.v1.mk/logo/AstroAEC.png" group-title="海外频道",Astro AEC
+#EXTINF:-1 tvg-id="" tvg-name="Astro AEC" tvg-logo="https://epg.112114.xyz/logo/AstroAEC.png" group-title="海外频道",Astro AEC
 http://php.jdshipin.com:8880/smt.php?id=AEC
-#EXTINF:-1 tvg-id="" tvg-name="Astro iQiyi" tvg-logo="https://epg.v1.mk/logo/%E7%88%B1%E5%A5%87%E8%89%BA.png" group-title="海外频道",Astro iQiyi
+#EXTINF:-1 tvg-id="" tvg-name="Astro iQiyi" tvg-logo="https://epg.112114.xyz/logo/IQIYI-MY.png" group-title="海外频道",Astro iQiyi
 http://php.jdshipin.com:8880/smt.php?id=Qiyi
-#EXTINF:-1 tvg-id="" tvg-name="Astro iQiyi" tvg-logo="https://epg.v1.mk/logo/%E7%88%B1%E5%A5%87%E8%89%BA.png" group-title="海外频道",Astro iQiyi
+#EXTINF:-1 tvg-id="" tvg-name="Astro iQiyi" tvg-logo="https://epg.112114.xyz/logo/IQIYI-MY.png" group-title="海外频道",Astro iQiyi
 https://o11.163189.xyz/stream/live/iqiyi/
-#EXTINF:-1 tvg-id="" tvg-name="Astro Qj" tvg-logo="https://epg.v1.mk/logo/ASTROQUANJIA.png" group-title="海外频道",Astro Qj
+#EXTINF:-1 tvg-id="" tvg-name="Astro Qj" tvg-logo="https://epg.112114.xyz/logo/ASTROQJ.png" group-title="海外频道",Astro Qj
 http://php.jdshipin.com:8880/smt.php?id=Quanjia
-#EXTINF:-1 tvg-id="" tvg-name="Astro欢喜台" tvg-logo="https://epg.v1.mk/logo/Astro欢喜台.png" group-title="海外频道",Astro欢喜台
+#EXTINF:-1 tvg-id="" tvg-name="Astro欢喜台" tvg-logo="https://epg.112114.xyz/logo/ASTROHUANXI.png" group-title="海外频道",Astro欢喜台
 http://php.jdshipin.com:8880/smt.php?id=Huahee
-#EXTINF:-1 tvg-id="" tvg-name="8TV" tvg-logo="https://epg.v1.mk/logo/八度空间.png" group-title="海外频道",8TV
+#EXTINF:-1 tvg-id="" tvg-name="8TV" tvg-logo="https://epg.112114.xyz/logo/8TV.png" group-title="海外频道",8TV
 https://cdn6.163189.xyz/163189/8tv
 #EXTINF:-1 tvg-id="" tvg-name="VOA美国之音" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/VOA美国之音.png" group-title="海外频道",VOA美国之音
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
