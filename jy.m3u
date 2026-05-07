@@ -39,9 +39,9 @@ http://sc.rrs.169ol.com/PLTV/88888888/224/3221227373/index.m3u8
 http://192.168.3.254:3566/631780421
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV4中文国际.png" group-title="央视频道",CCTV-4中文国际
 http://183.220.20.17:4321/rtp/239.11.0.109:5140.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV4欧洲国际.png" group-title="央视频道",CCTV-4欧洲国际
+#EXTINF:-1 tvg-id="22" tvg-name="CCTV4EUO" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV4欧洲国际.png" group-title="央视频道",CCTV-4欧洲国际
 http://192.168.3.254:3566/608807419
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV4美洲国际.png" group-title="央视频道",CCTV-4美洲国际
+#EXTINF:-1 tvg-id="23" tvg-name="CCTV4AME" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV4美洲国际.png" group-title="央视频道",CCTV-4美洲国际
 http://192.168.3.254:3566/608807416
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV5体育.png" group-title="央视频道",CCTV-5体育
 http://192.168.3.1:4022/rtp/239.94.0.33:5140.m3u8
