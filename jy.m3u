@@ -221,10 +221,6 @@ http://sc.rrs.169ol.com/PLTV/88888888/224/3221228146/index.m3u8
 http://192.168.3.254:3566/609006487
 #EXTINF:-1 tvg-id="296" tvg-name="CGTN 纪录(英)" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN纪录.png" group-title="央视频道",CGTN纪录
 http://183.220.20.17:4321/rtp/239.11.0.138:5140.m3u8
-#EXTINF:-1 tvg-id="296" tvg-name="CGTN 纪录(英)" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN纪录.png" group-title="央视频道",CGTN纪录
-https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 tvg-id="296" tvg-name="CGTN 纪录(英)" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN纪录.png" group-title="央视频道",CGTN纪录
-https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN西语" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN西语.png" group-title="央视频道",CGTN西语
 http://192.168.3.1:4022/rtp/239.94.1.65:5140.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN西语" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN西语.png" group-title="央视频道",CGTN西语
@@ -235,10 +231,6 @@ http://sc.rrs.169ol.com/PLTV/88888888/224/3221228148/index.m3u8
 http://192.168.3.254:3566/609006450
 #EXTINF:-1 tvg-id="" tvg-name="CGTN西语" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN西语.png" group-title="央视频道",CGTN西语
 http://183.220.20.17:4321/rtp/239.11.0.79:5140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN西语" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN西语.png" group-title="央视频道",CGTN西语
-https://0472.org/hls/cgtnx.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN西语" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN西语.png" group-title="央视频道",CGTN西语
-http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN法语" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN法语.png" group-title="央视频道",CGTN法语
 http://192.168.3.1:4022/rtp/239.94.1.66:5140.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN法语" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN法语.png" group-title="央视频道",CGTN法语
@@ -249,10 +241,6 @@ http://sc.rrs.169ol.com/PLTV/88888888/224/3221228131/index.m3u8
 http://192.168.3.254:3566/609006476
 #EXTINF:-1 tvg-id="" tvg-name="CGTN法语" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN法语.png" group-title="央视频道",CGTN法语
 http://183.220.20.17:4321/rtp/239.11.0.80:5140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN法语" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN法语.png" group-title="央视频道",CGTN法语
-https://0472.org/hls/cgtnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN法语" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN法语.png" group-title="央视频道",CGTN法语
-http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN俄语" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN俄语.png" group-title="央视频道",CGTN俄语
 http://192.168.3.1:4022/rtp/239.94.2.145:5140.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN俄语" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN俄语.png" group-title="央视频道",CGTN俄语
@@ -263,10 +251,6 @@ http://sc.rrs.169ol.com/PLTV/88888888/224/3221228150/index.m3u8
 http://192.168.3.254:3566/609006446
 #EXTINF:-1 tvg-id="" tvg-name="CGTN俄语" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN俄语.png" group-title="央视频道",CGTN俄语
 http://183.220.20.17:4321/rtp/239.11.0.82:5140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN俄语" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN俄语.png" group-title="央视频道",CGTN俄语
-https://0472.org/hls/cgtne.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN俄语" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN俄语.png" group-title="央视频道",CGTN俄语
-http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN阿语" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN阿语.png" group-title="央视频道",CGTN阿语
 http://192.168.3.1:4022/rtp/239.94.2.144:5140.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN阿语" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN阿语.png" group-title="央视频道",CGTN阿语
@@ -277,10 +261,6 @@ http://sc.rrs.169ol.com/PLTV/88888888/224/3221228133/index.m3u8
 http://192.168.3.254:3566/609154345
 #EXTINF:-1 tvg-id="" tvg-name="CGTN阿语" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN阿语.png" group-title="央视频道",CGTN阿语
 http://183.220.20.17:4321/rtp/239.11.0.81:5140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN阿语" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN阿语.png" group-title="央视频道",CGTN阿语
-https://0472.org/hls/cgtna.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN阿语" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN阿语.png" group-title="央视频道",CGTN阿语
-http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 #EXTINF:-1 tvg-id="1652" tvg-name="兵器科技" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV兵器科技.png" group-title="央视频道",兵器科技
 http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="1649" tvg-name="世界地理" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV世界地理.png" group-title="央视频道",世界地理
@@ -1365,14 +1345,6 @@ http://183.220.20.17:4321/rtp/239.10.0.138:5140.m3u8
 http://183.220.20.17:4321/rtp/239.10.0.139:5140.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="川超" tvg-logo="" group-title="特色频道",川超
 http://183.220.20.17:4321/rtp/239.10.0.140:5140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/星空卫视.png" group-title="香港频道",星空卫视
-http://192.168.3.1:4022/rtp/239.94.2.53:5140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/星空卫视.png" group-title="香港频道",星空卫视
-http://183.220.20.17:4321/rtp/239.11.0.156:5140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="channelv" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/Channel%20V.png" group-title="香港频道",channelv
-http://192.168.3.1:4022/rtp/239.94.2.55:5140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="channelv" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/Channel%20V.png" group-title="香港频道",channelv
-http://183.220.20.17:4321/rtp/239.11.0.155:5140.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰中文.png" group-title="香港频道",凤凰卫视中文台
 http://192.168.3.1:4022/rtp/239.94.2.51:5140.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰中文.png" group-title="香港频道",凤凰卫视中文台
