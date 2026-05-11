@@ -947,10 +947,6 @@ http://183.220.20.17:4321/rtp/239.10.0.138:5140.m3u8
 http://183.220.20.17:4321/rtp/239.10.0.139:5140.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="川超" tvg-logo="" group-title="特色频道",川超
 http://183.220.20.17:4321/rtp/239.10.0.140:5140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/星空卫视.png" group-title="香港频道",星空卫视
-http://183.220.20.17:4321/rtp/239.11.0.156:5140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="channelv" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/Channel%20V.png" group-title="香港频道",channelv
-http://183.220.20.17:4321/rtp/239.11.0.155:5140.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰中文.png" group-title="香港频道",凤凰卫视中文台
 http://183.220.20.17:4321/rtp/239.11.0.153:5140.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰中文.png" group-title="香港频道",凤凰卫视中文台
