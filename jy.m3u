@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e1.xml.gz,http://epg.51zmt.top:8000/e2.xml.gz"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV1综合.png" group-title="央视频道",CCTV-1综合
-http://192.168.3.1:4022/rtp/239.94.0.31:5140
+http://192.168.3.1:4022/rtp/239.94.0.31:5140?fcc=118.119.178.42:8027
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV1综合.png" group-title="央视频道",CCTV-1综合
 http://192.168.3.1:4023/rtp/239.0.0.10:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV1综合.png" group-title="央视频道",CCTV-1综合
@@ -10,7 +10,7 @@ http://192.168.3.254:3566/608807420
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV1综合.png" group-title="央视频道",CCTV-1综合
 http://183.220.20.17:4321/rtp/239.11.0.65:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV2财经.png" group-title="央视频道",CCTV-2财经
-http://192.168.3.1:4022/rtp/239.94.0.2:5140
+http://192.168.3.1:4022/rtp/239.94.0.2:5140?fcc=118.119.178.42:8027
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV2财经.png" group-title="央视频道",CCTV-2财经
 http://192.168.3.1:4023/rtp/239.0.0.11:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV2财经.png" group-title="央视频道",CCTV-2财经
