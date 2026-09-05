@@ -1137,6 +1137,10 @@ http://sc.rrs.169ol.com/PLTV/88888888/224/3221227940/index.m3u8
 http://192.168.3.254:3566/923287211
 #EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CET/CETV2.png" group-title="特色频道",中国教育2台
 http://183.220.20.17:4321/rtp/239.11.0.246:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育3台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CET/CETV3.png" group-title="特色频道",中国教育3台
+http://107.150.60.122/live/cetv3.m3u8
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育3台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CET/CETV3.png" group-title="特色频道",中国教育3台
+http://198.204.228.26/live/cetv3.m3u8
 #EXTINF:-1 tvg-id="1860" tvg-name="中国教育4台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CET/CETV4.png" group-title="特色频道",中国教育4台
 http://192.168.3.1:4022/rtp/239.94.1.20:5140?fcc=118.119.178.42:8027
 #EXTINF:-1 tvg-id="1860" tvg-name="中国教育4台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CET/CETV4.png" group-title="特色频道",中国教育4台
