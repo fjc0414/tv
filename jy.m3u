@@ -1357,6 +1357,8 @@ http://183.220.20.17:4321/rtp/239.11.0.153:5140
 http://r.jdshipin.com/cCCzW
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰中文.png" group-title="香港频道",凤凰卫视中文台
 http://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰中文.png" group-title="香港频道",凤凰卫视中文台
+http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰资讯.png" group-title="香港频道",凤凰卫视资讯台
 http://192.168.3.1:4022/rtp/239.94.2.49:5140
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰资讯.png" group-title="香港频道",凤凰卫视资讯台
@@ -1369,6 +1371,8 @@ http://cdn6.163189.xyz/163189/fhzx
 http://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰香港.png" group-title="香港频道",凤凰卫视香港台
 http://r.jdshipin.com/yDoTN
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰香港.png" group-title="香港频道",凤凰卫视香港台
+http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
 #EXTINF:-1 tvg-id="" tvg-name="凤凰电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰电影.png" group-title="香港频道",凤凰卫视电影台
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 #EXTINF:-1 tvg-id="189" tvg-name="HKS" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/香港卫视.png" group-title="香港频道",香港卫视
@@ -1514,7 +1518,7 @@ http://cdn6.163189.xyz/163189/amlh
 #EXTINF:-1 tvg-id="1476" tvg-name="中天综合台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/中天综合.png" group-title="台湾频道",中天综合
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/中天新闻.png" group-title="台湾频道",中天新闻
-http://85.237.207.150:50007/of-4gtv-4gtv009/index.m3u8
+http://xiangxiws.vip:6777/qlw.php?key=qq%E7%BE%A4746405779&id=ztxw
 #EXTINF:-1 tvg-id="1479" tvg-name="中天娱乐台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/中天娱乐.png" group-title="台湾频道",中天娱乐
 https://hls.iill.top/api/Cti-E/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中天亚洲" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/中天亚洲.png" group-title="台湾频道",中天亚洲
