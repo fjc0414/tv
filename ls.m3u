@@ -959,7 +959,7 @@ http://r.jdshipin.com/cCCzW
 http://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰资讯.png" group-title="香港频道",凤凰卫视资讯台
 http://183.220.20.17:4321/rtp/239.11.0.154:5140
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" http-user-agent="iPhone" group-title="香港频道" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰资讯.png",凤凰卫视资讯台
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" http-user-agent="iPhone" group-title="香港频道" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰卫视资讯台
 http://101.35.240.114:88/phenix.php?id=fhzx
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰资讯.png" group-title="香港频道",凤凰卫视资讯台
 http://r.jdshipin.com/0Rp07
