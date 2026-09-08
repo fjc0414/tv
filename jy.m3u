@@ -1339,16 +1339,34 @@ http://192.168.3.1:4022/rtp/239.94.1.167:5140?fcc=118.119.178.42:8027
 http://192.168.3.254:3566/959986621
 #EXTINF:-1 tvg-id="" tvg-name="南国都市" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou6.png" group-title="特色频道",南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-#EXTINF:-1 tvg-id="" tvg-name="川超" tvg-logo="" group-title="特色频道",川超
-http://183.220.20.17:4321/rtp/239.10.0.136:5140
-#EXTINF:-1 tvg-id="" tvg-name="川超" tvg-logo="" group-title="特色频道",川超
-http://183.220.20.17:4321/rtp/239.10.0.137:5140
-#EXTINF:-1 tvg-id="" tvg-name="川超" tvg-logo="" group-title="特色频道",川超
-http://183.220.20.17:4321/rtp/239.10.0.138:5140
-#EXTINF:-1 tvg-id="" tvg-name="川超" tvg-logo="" group-title="特色频道",川超
-http://183.220.20.17:4321/rtp/239.10.0.139:5140
-#EXTINF:-1 tvg-id="" tvg-name="川超" tvg-logo="" group-title="特色频道",川超
-http://183.220.20.17:4321/rtp/239.10.0.140:5140
+#EXTINF:-1 tvg-id="1293" tvg-name="iHOT爱浪漫" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱浪漫.png" group-title="特色频道",iHOT爱浪漫
+http://192.168.3.1:4022/rtp/239.94.1.128:5140
+#EXTINF:-1 tvg-id="1293" tvg-name="iHOT爱喜剧" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱喜剧.png" group-title="特色频道",iHOT爱喜剧
+http://192.168.3.1:4022/rtp/239.94.1.129:5140
+#EXTINF:-1 tvg-id="1293" tvg-name="iHOT爱奇谈" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱奇谈.png" group-title="特色频道",iHOT爱奇谈
+http://192.168.3.1:4022/rtp/239.94.1.130:5140
+#EXTINF:-1 tvg-id="1293" tvg-name="iHOT爱科幻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱科幻.png" group-title="特色频道",iHOT爱科幻
+http://192.168.3.1:4022/rtp/239.94.1.131:5140
+#EXTINF:-1 tvg-id="1293" tvg-name="iHOT爱院线" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱院线.png" group-title="特色频道",iHOT爱院线
+http://192.168.3.1:4022/rtp/239.94.1.132:5140
+#EXTINF:-1 tvg-id="1293" tvg-name="iHOT爱院线" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱院线.png" group-title="特色频道",iHOT爱院线
+http://192.168.3.1:4022/rtp/239.94.1.132:5140
+#EXTINF:-1 tvg-id="1293" tvg-name="iHOT爱谍战" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱谍战.png" group-title="特色频道",iHOT爱谍战
+http://192.168.3.1:4022/rtp/239.94.1.134:5140
+#EXTINF:-1 tvg-id="1293" tvg-name="iHOT爱历史" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱历史.png" group-title="特色频道",iHOT爱历史
+http://192.168.3.1:4022/rtp/239.94.1.135:5140
+#EXTINF:-1 tvg-id="1293" tvg-name="iHOT爱悬疑" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱悬疑.png" group-title="特色频道",iHOT爱悬疑
+http://192.168.3.1:4022/rtp/239.94.1.136:5140
+#EXTINF:-1 tvg-id="1293" tvg-name="iHOT爱幼教" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱幼教.png" group-title="特色频道",iHOT爱幼教
+http://192.168.3.1:4022/rtp/239.94.1.139:5140
+#EXTINF:-1 tvg-id="1293" tvg-name="iHOT爱玩具" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱玩具.png" group-title="特色频道",iHOT爱玩具
+http://192.168.3.1:4022/rtp/239.94.1.140:5140
+#EXTINF:-1 tvg-id="1293" tvg-name="iHOT爱动漫" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱动漫.png" group-title="特色频道",iHOT爱动漫
+http://192.168.3.1:4022/rtp/239.94.1.141:5140
+#EXTINF:-1 tvg-id="1293" tvg-name="iHOT爱体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱体育.png" group-title="特色频道",iHOT爱体育
+http://192.168.3.1:4022/rtp/239.94.1.143:5140
+#EXTINF:-1 tvg-id="1293" tvg-name="iHOT爱赛车" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱赛车.png" group-title="特色频道",iHOT爱赛车
+http://192.168.3.1:4022/rtp/239.94.1.144:5140
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰中文.png" group-title="香港频道",凤凰卫视中文台
 http://192.168.3.1:4022/rtp/239.94.2.51:5140
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰中文.png" group-title="香港频道",凤凰卫视中文台
