@@ -937,12 +937,6 @@ http://192.168.3.1:4023/rtp/239.0.0.121:5140
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227521/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="绵阳新闻综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/fjc0414/tvlogo/refs/heads/main/mianyang1.png" group-title="四川频道",绵阳新闻综合
 http://183.220.20.17:4321/rtp/239.10.0.96:5140
-#EXTINF:-1 tvg-id="" tvg-name="绵阳科教生活" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/fjc0414/tvlogo/refs/heads/main/mianyang2.png" group-title="四川频道",绵阳科教生活
-http://192.168.3.1:4023/rtp/239.0.0.88:5140
-#EXTINF:-1 tvg-id="" tvg-name="绵阳科教生活" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/fjc0414/tvlogo/refs/heads/main/mianyang2.png" group-title="四川频道",绵阳科教生活
-http://sc.rrs.169ol.com/PLTV/88888888/224/3221228087/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="绵阳科教生活" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/fjc0414/tvlogo/refs/heads/main/mianyang2.png" group-title="四川频道",绵阳科教生活
-http://183.220.20.17:4321/rtp/239.10.0.98:5140
 #EXTINF:-1 tvg-id="" tvg-name="广安新闻综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/fjc0414/tvlogo/refs/heads/main/guangan1.png" group-title="四川频道",广安新闻综合
 http://192.168.3.1:4023/rtp/239.0.0.132:5140
 #EXTINF:-1 tvg-id="" tvg-name="广安新闻综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/fjc0414/tvlogo/refs/heads/main/guangan1.png" group-title="四川频道",广安新闻综合
